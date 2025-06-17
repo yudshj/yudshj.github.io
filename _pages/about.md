@@ -13,7 +13,7 @@ I am a Ph.D. candidate at the School of Computer Science, Peking University, adv
 ## 📝 News
 - **[Mar. 2025]** Our paper "GL2GPU" was accepted by TheWebConf 2025 (WWW '25). 
 - **[Mar. 2025]** Our paper "WebANNS" was accepted by SIGIR 2025. 
-- **[Feb. 2025]** Honored to receive The Web Conference Travel Award. 
+- **[Apr. 2025]** Honored to receive The Web Conference Travel Award. 
 - **[Jan. 2024]** Our paper "FusionRender" was accepted by TheWebConf 2024 (WWW '24). 
 - **[May 2023]** Our paper "Who Judges the Judge" was accepted by ISSTA 2023. 
 
