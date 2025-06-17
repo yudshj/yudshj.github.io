@@ -10,14 +10,14 @@ redirect_from:
 
 I am a Ph.D. candidate at the School of Computer Science, Peking University, advised by Prof. [Yun Ma](https://scholar.google.com/citations?user=1hnJ3TgAAAAJ&hl=en). My research interests lie in the fields of computer graphics, web intelligence, and high-performance computing on the web. Specifically, I am passionate about optimizing web graphics pipelines and enhancing the efficiency of web-based AI applications. 
 
-## 📝 News {:#news}
+## 📝 News{:#news}
 - **[Mar. 2025]** Our paper "GL2GPU" was accepted by TheWebConf 2025 (WWW '25). 🎉
 - **[Mar. 2025]** Our paper "WebANNS" was accepted by SIGIR 2025. 
 - **[Apr. 2025]** Honored to receive The Web Conference Travel Award. 🏅
 - **[Jan. 2024]** Our paper "FusionRender" was accepted by TheWebConf 2024 (WWW '24). 
 - **[May 2023]** Our paper "Who Judges the Judge" was accepted by ISSTA 2023. 
 
-## Publications {:#publications}
+## Publications{:#publications}
 
 * **GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** 
     * **Yudong Han**, Weichen Bi, Ruibo An, Deyu Tian, Qi Yang, Yun Ma 
@@ -58,7 +58,7 @@ I am a Ph.D. candidate at the School of Computer Science, Peking University, adv
     * *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '23)*, CCF-A \[[Paper](https://doi.org/10.5281/zenodo.7977256)]
 
 
-## 💻 Projects {:#projects}
+## 💻 Projects{:#projects}
 
 * **Decentralized Federated Learning for Healthcare Data** (Sep 2024 - Present) 
     * An industrial implementation of our research paper, "DegaFL," in collaboration with Peking University Third Hospital. 
@@ -68,7 +68,7 @@ I am a Ph.D. candidate at the School of Computer Science, Peking University, adv
     * Developed a system for disease prediction based on multimodal data from hospital imaging. 
     * Subsequent results were published at the WISE 2024 conference. 
 
-## 👨‍🏫 Experience {:#experience}
+## 👨‍🏫 Experience{:#experience}
 
 * **Teaching Assistant - Introduction to Computing (Python)** (Sep 2021 - Sep 2024) 
     * Instructed over 480 undergraduate students across four semesters at Peking University. 
@@ -79,14 +79,14 @@ I am a Ph.D. candidate at the School of Computer Science, Peking University, adv
     * Designed and taught a 10-week Historical European Martial Arts (HEMA) saber program. 
     * Organized weekly training for over 100 members and secured development funds for the association. 
 
-## 🏆 Honors and Awards  {:#honors}
+## 🏆 Honors and Awards {:#honors}
 
 * **The Web Conference Travel Award** (2025) 
 * **Fourth Place**, 2nd Beijing University Student Historical Fencing Open Competition (2025) 
 * **Second Prize**, EDAthon - International EDA Algorithm Competition (2022) 🥈
 * **Silver Medal**, National Olympiad in Informatics (NOI) (2017) 🥈
 
-## 🔧 Technical Skills {:#skills}
+## 🔧 Technical Skills{:#skills}
 
 * **Languages:** Rust, Python, TypeScript/JavaScript, C++, Java 
 * **Web Technologies:** WebGPU, WebGL, Web App Optimization, Web-based LLM/RAG 
