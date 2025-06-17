@@ -33,15 +33,30 @@ I am a Ph.D. candidate at the School of Computer Science, Peking University, adv
     Mugeng Liu, Siqi Zhong, Qi Yang, **Yudong Han**, Xuanzhe Liu, Yun Ma 
     *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*, CCF-A 
 
+* **LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs** 
+    Kaibo Liu, Zhenpeng Chen, Yiyang Liu, Jie Zhang, Mark Harman, **Yudong Han**, Yun Ma, Yihong Dong, Ge Li, Gang Huang 
+    *Accepted by ACL 2025 (CCF A)* 
+
 * **FusionRender: Harnessing WebGPU's Power for Enhanced Graphics Performance on Web Browsers** 
     Weichen Bi, Yun Ma, **Yudong Han**, Yifan Chen, Deyu Tian, Jiaqi Du 
     *The Web Conference 2024 (TheWebConf '24)*, CCF-A 
+
+* **WPIA: Accelerating DNN Warm-up in Web Browsers by Precompiling WebGL Programs** 
+    Deyu Tian, Yun Ma, **Yudong Han**, Qi Yang, Haochen Yang, Gang Huang 
+    *Accepted by Frontiers Comput. Sci. 2024 (CCF B)* 
+
+* **TrickyBugs: A Dataset of Corner-case Bugs in Plausible Programs** 
+    Kaibo Liu, **Yudong Han**, Yiyang Liu, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Gang Huang, Yun Ma 
+    *Accepted by MSR 2024 (CCF C)* 
+
+* **Web-Based Al Assistant for Medical Imaging: A Case Study on Predicting Spontaneous Preterm Birth via Ultrasound Images** 
+    Weichen Bi, Zijian Shao, **Yudong Han**, Jiaqi Du, Yuan Wei, Lijuan Guo, Tianchen Wu, Shuang Li, Yun Ma 
+    *Accepted by WISE 2024 (CCF C)* 
 
 * **Who Judges the Judge: An Empirical Study on Online Judge Tests** 
     Kaibo Liu, **Yudong Han**, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Mark Harman, Gang Huang, Yun Ma 
     *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '23)*, CCF-A 
 
-*For a full list, please see my CV or Google Scholar profile.*
 
 ## 💻 Projects
 
