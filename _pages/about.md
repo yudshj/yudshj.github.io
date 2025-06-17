@@ -1,58 +1,78 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About Me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+I am a Ph.D. candidate at the School of Computer Science, Peking University, advised by Prof. [Yun Ma](https://scholar.google.com/citations?user=1hnJ3TgAAAAJ&hl=en). My research interests lie in the fields of computer graphics, web intelligence, and high-performance computing on the web. Specifically, I am passionate about optimizing web graphics pipelines and enhancing the efficiency of web-based AI applications. 
 
-<span class='anchor' id='about-me'></span>
+## 📝 News
+- **[Mar. 2025]** Our paper "GL2GPU" was accepted by TheWebConf 2025 (WWW '25). 
+- **[Mar. 2025]** Our paper "WebANNS" was accepted by SIGIR 2025. 
+- **[Feb. 2025]** Honored to receive The Web Conference Travel Award. 
+- **[Jan. 2024]** Our paper "FusionRender" was accepted by TheWebConf 2024 (WWW '24). 
+- **[May 2023]** Our paper "Who Judges the Judge" was accepted by ISSTA 2023. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+## Publications
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+* **GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** 
+    **Yudong Han**, Weichen Bi, Ruibo An, Deyu Tian, Qi Yang, Yun Ma 
+    *The Web Conference 2025 (TheWebConf '25)*, CCF-A 
+    \[[Demo](https://gl2gpu.hanyd.site)] 
 
+* **DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning** 
+    Jialiang Han, **Yudong Han**, Xiang Jing, Gang Huang, Yun Ma 
+    *IEEE Transactions on Parallel and Distributed Systems (TPDS '25)*, CCF-A 
+    \[[Code](https://github.com/yudshj/defl-hotstuff)] 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* **WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers** 
+    Mugeng Liu, Siqi Zhong, Qi Yang, **Yudong Han**, Xuanzhe Liu, Yun Ma 
+    *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*, CCF-A 
 
-# 📝 Publications 
+* **FusionRender: Harnessing WebGPU's Power for Enhanced Graphics Performance on Web Browsers** 
+    Weichen Bi, Yun Ma, **Yudong Han**, Yifan Chen, Deyu Tian, Jiaqi Du 
+    *The Web Conference 2024 (TheWebConf '24)*, CCF-A 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+* **Who Judges the Judge: An Empirical Study on Online Judge Tests** 
+    Kaibo Liu, **Yudong Han**, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Mark Harman, Gang Huang, Yun Ma 
+    *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '23)*, CCF-A 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+*For a full list, please see my CV or Google Scholar profile.*
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+## 💻 Projects
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+* **Decentralized Federated Learning for Healthcare Data** (Sep 2024 - Present) 
+    * An industrial implementation of our research paper, "DegaFL," in collaboration with Peking University Third Hospital. 
+    * My Role: Algorithm Design, System Development in Rust, and coordination with third-party testing. 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+* **Medical Imaging Recognition Project** (Sep 2022 - Sep 2023) 
+    * Developed a system for disease prediction based on multimodal data from hospital imaging. 
+    * Subsequent results were published at the WISE 2024 conference. 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 👨‍🏫 Experience
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* **Teaching Assistant - Introduction to Computing (Python)** (Sep 2021 - Sep 2024) 
+    * Instructed over 480 undergraduate students across four semesters at Peking University. 
+    * Developed a browser-based Python IDE to provide a zero-installation, privacy-first coding environment for beginners. 
+    * Created a "Cyber TA" powered by LLMs to offer students 24/7 automated debugging support. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+* **President - Peking University Martial Arts Association** (2025 - Present) 
+    * Designed and taught a 10-week Historical European Martial Arts (HEMA) saber program. 
+    * Organized weekly training for over 100 members and secured development funds for the association. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## 🏆 Honors and Awards
+
+* **The Web Conference Travel Award** (2025) 
+* **Fourth Place**, 2nd Beijing University Student Historical Fencing Open Competition (2025) 
+* **Second Prize**, EDAthon - International EDA Algorithm Competition (2022) 
+* **Silver Medal**, National Olympiad in Informatics (NOI) (2017) 
+
+## 🔧 Technical Skills
+
+* **Languages:** Rust, Python, TypeScript/JavaScript, C++, Java 
+* **Web Technologies:** WebGPU, WebGL, Web App Optimization, Web-based LLM/RAG 
+* **Systems:** Linux Server Maintenance, AWS, LLM Deployment with Edge Computing, Docker, CI/CD
