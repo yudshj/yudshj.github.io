@@ -32,11 +32,11 @@ I am a Ph.D. candidate at the School of Computer Science, Peking University, adv
     * Mugeng Liu, Siqi Zhong, Qi Yang, **Yudong Han**, Xuanzhe Liu, Yun Ma 
     * *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*, CCF-A
 
-* **LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs** \[[Paper](https://doi.org/10.1145/3589334.3645395)]
+* **LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs**
     * Kaibo Liu, Zhenpeng Chen, Yiyang Liu, Jie Zhang, Mark Harman, **Yudong Han**, Yun Ma, Yihong Dong, Ge Li, Gang Huang 
     * *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*, CCF-A
 
-* **FusionRender: Harnessing WebGPU's Power for Enhanced Graphics Performance on Web Browsers** 
+* **FusionRender: Harnessing WebGPU's Power for Enhanced Graphics Performance on Web Browsers** \[[Paper](https://doi.org/10.1145/3589334.3645395)]
     * Weichen Bi, Yun Ma, **Yudong Han**, Yifan Chen, Deyu Tian, Jiaqi Du 
     * *The Web Conference 2024 (TheWebConf '24)*, CCF-A
 
