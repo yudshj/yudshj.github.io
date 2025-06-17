@@ -20,43 +20,41 @@ I am a Ph.D. candidate at the School of Computer Science, Peking University, adv
 
 <h2 id="publications">📑 Publications</h2>
 
-* **GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** 
+* **GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** \[[Demo](https://gl2gpu.hanyd.site)] \[[Paper](https://doi.org/10.1145/3696410.3714785)] 
     * **Yudong Han**, Weichen Bi, Ruibo An, Deyu Tian, Qi Yang, Yun Ma 
     * *The Web Conference 2025 (TheWebConf '25)*, CCF-A 
-    \[[Demo](https://gl2gpu.hanyd.site)] \[[Paper](https://doi.org/10.1145/3696410.3714785)] 
 
-* **DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning** 
+* **DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning** \[[Code](https://github.com/yudshj/defl-hotstuff)] \[[Paper](https://doi.org/10.1109/TPDS.2024.3501581)] 
     * Jialiang Han, **Yudong Han**, Xiang Jing, Gang Huang, Yun Ma 
     * *IEEE Transactions on Parallel and Distributed Systems (TPDS '25)*, CCF-A 
-    \[[Code](https://github.com/yudshj/defl-hotstuff)] \[[Paper](https://doi.org/10.1109/TPDS.2024.3501581)] 
 
-* **WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers** 
+* **WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers** \[[Paper](https://doi.org/10.1145/3726302.3730115)]
     * Mugeng Liu, Siqi Zhong, Qi Yang, **Yudong Han**, Xuanzhe Liu, Yun Ma 
-    * *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*, CCF-A \[[Paper](https://doi.org/10.1145/3726302.3730115)]
+    * *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*, CCF-A
 
-* **LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs** 
+* **LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs** \[[Paper](https://doi.org/10.1145/3589334.3645395)]
     * Kaibo Liu, Zhenpeng Chen, Yiyang Liu, Jie Zhang, Mark Harman, **Yudong Han**, Yun Ma, Yihong Dong, Ge Li, Gang Huang 
     * *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*, CCF-A
 
 * **FusionRender: Harnessing WebGPU's Power for Enhanced Graphics Performance on Web Browsers** 
     * Weichen Bi, Yun Ma, **Yudong Han**, Yifan Chen, Deyu Tian, Jiaqi Du 
-    * *The Web Conference 2024 (TheWebConf '24)*, CCF-A \[[Paper](https://doi.org/10.1145/3589334.3645395)]
+    * *The Web Conference 2024 (TheWebConf '24)*, CCF-A
 
-* **WPIA: Accelerating DNN Warm-up in Web Browsers by Precompiling WebGL Programs** 
+* **WPIA: Accelerating DNN Warm-up in Web Browsers by Precompiling WebGL Programs** \[[Paper](https://doi.org/10.1007/s11704-024-40066-w)]
     * Deyu Tian, Yun Ma, **Yudong Han**, Qi Yang, Haochen Yang, Gang Huang 
-    * *Frontiers Comput. Sci. 2024*, CCF-B \[[Paper](https://doi.org/10.1007/s11704-024-40066-w)]
+    * *Frontiers Comput. Sci. 2024*, CCF-B
 
-* **TrickyBugs: A Dataset of Corner-case Bugs in Plausible Programs** 
+* **TrickyBugs: A Dataset of Corner-case Bugs in Plausible Programs** \[[Paper](https://doi.org/10.1145/3643991.3644870)]
     * Kaibo Liu, **Yudong Han**, Yiyang Liu, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Gang Huang, Yun Ma 
-    * *the 21st International Conference on Mining Software Repositories (MSR 2024)*, CCF-C \[[Paper](https://doi.org/10.1145/3643991.3644870)]
+    * *the 21st International Conference on Mining Software Repositories (MSR 2024)*, CCF-C
 
-* **Web-Based Al Assistant for Medical Imaging: A Case Study on Predicting Spontaneous Preterm Birth via Ultrasound Images** 
+* **Web-Based Al Assistant for Medical Imaging: A Case Study on Predicting Spontaneous Preterm Birth via Ultrasound Images** \[[Paper](https://doi.org/10.1007/978-981-96-0573-6_22)]
     * Weichen Bi, Zijian Shao, **Yudong Han**, Jiaqi Du, Yuan Wei, Lijuan Guo, Tianchen Wu, Shuang Li, Yun Ma 
-    * *The International Web Information Systems Engineering conference (WISE 2024)*, CCF-C \[[Paper](https://doi.org/10.1007/978-981-96-0573-6_22)]
+    * *The International Web Information Systems Engineering conference (WISE 2024)*, CCF-C
 
-* **Who Judges the Judge: An Empirical Study on Online Judge Tests** 
+* **Who Judges the Judge: An Empirical Study on Online Judge Tests** \[[Paper](https://doi.org/10.5281/zenodo.7977256)]
     * Kaibo Liu, **Yudong Han**, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Mark Harman, Gang Huang, Yun Ma 
-    * *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '23)*, CCF-A \[[Paper](https://doi.org/10.5281/zenodo.7977256)]
+    * *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '23)*, CCF-A
 
 
 <h2 id="projects">🏗️ Projects</h2>
