@@ -71,8 +71,8 @@ I am a Ph.D. candidate at the School of Computer Science, Peking University, adv
 
 * **Teaching Assistant - Introduction to Computing (Python)** (Sep 2021 - Sep 2024) 
     * Instructed over 480 undergraduate students across four semesters at Peking University. 
-    * Developed a browser-based Python IDE to provide a zero-installation, privacy-first coding environment for beginners. 
-    * Created a "Cyber TA" powered by LLMs to offer students 24/7 automated debugging support. 
+    * Developed a [browser-based Python IDE](https://ide.wjpython.bdware.cn) to provide a zero-installation, privacy-first coding environment for beginners. 
+    * Created a ["Cyber TA"](https://helper.wjpython.bdware.cn) powered by LLMs to offer students 24/7 automated debugging support. 
 
 * **President - Peking University Martial Arts Association** (2025 - Present) 
     * Designed and taught a 10-week Historical European Martial Arts (HEMA) saber program. 
