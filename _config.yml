@@ -13,7 +13,16 @@ url                     : "https://hanyd.site"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id     :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id     :  G-WSV6VPKFCN
+# <!-- Google tag (gtag.js) -->
+# <script async src="https://www.googletagmanager.com/gtag/js?id=G-WSV6VPKFCN"></script>
+# <script>
+#   window.dataLayer = window.dataLayer || [];
+#   function gtag(){dataLayer.push(arguments);}
+#   gtag('js', new Date());
+
+#   gtag('config', 'G-WSV6VPKFCN');
+# </script>
 
 # SEO Related
 google_site_verification :  xHRKJOPOa8V3MmyhtZqJSLd-uB1rz_yEytVjNQqmBB4
