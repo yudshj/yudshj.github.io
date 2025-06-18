@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the School of Computer Science, Peking University, advised by Prof. [Yun Ma](https://scholar.google.com/citations?user=1hnJ3TgAAAAJ&hl=en). My research interests lie in the fields of computer graphics, web intelligence, and high-performance computing on the web. Specifically, I am passionate about optimizing web graphics pipelines and enhancing the efficiency of web-based AI applications. 
+I am a Ph.D. candidate at the School of Computer Science, Peking University, advised by Prof. [Yun Ma](https://scholar.google.com/citations?user=1hnJ3TgAAAAJ&hl=en). My research interests lie in the fields of computer graphics, browser engineering, digital person, and high-performance computing on the web. Specifically, I am passionate about optimizing web graphics pipelines and enhancing the efficiency of web-based AI applications. 
 
 <h2 id="news">📢 News</h2>
 
