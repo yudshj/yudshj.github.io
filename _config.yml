@@ -32,7 +32,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name            : "Yudong Han"
-  avatar          : "https://cdn.jsdelivr.net/gh/yudshj/yudshj.github.io@v0.0.1/images/DSC00725_logo.jpg"
+  avatar          : "https://cdn.jsdelivr.net/gh/yudshj/yudshj.github.io@0.0.2/images/DSC00725_logo.jpg"
   bio             : "Ph.D. Candidate, School of Computer Science"
   location        : "Beijing, China"
   employer        : "Peking University"
