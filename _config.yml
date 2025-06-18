@@ -33,13 +33,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name            : "Yudong Han"
   avatar          : "https://cdn.jsdelivr.net/gh/yudshj/yudshj.github.io@0.0.2/images/DSC00725_logo.jpg"
-  bio             : "Ph.D. Candidate, School of Computer Science"
+  bio             : "Ph.D. Candidate, School of Computer Science, Peking University"
   location        : "Beijing, China"
   employer        : "Peking University"
   pubmed          : 
   googlescholar   : "https://scholar.google.com/citations?user=NSr44m0AAAAJ"
   email           : "hanyd@pku.edu.cn"
-  researchgate    : 
+  researchgate    : "Yudong_Han4"
   uri             :
   bitbucket       :
   codepen         :
