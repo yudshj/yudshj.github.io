@@ -7,7 +7,7 @@
 
 # Site Settings
 title                   : "Yudong Han"
-description             : "Yudong Han's personal academic homepage. A Ph.D. candidate at Peking University, focusing on high-performance web graphics (WebGPU), browser engineering, 3d digital person, and neural rendering."
+description             : "Yudong Han's personal academic homepage. A Ph.D. candidate at Peking University, focusing on high-performance web graphics (WebGPU), browser engineering, 3d digital human, and neural rendering."
 repository              : "yudshj/yudshj.github.io" # e.g., "RayeRen/acad-homepage.github.io"
 url                     : "https://hanyd.site"
 google_scholar_stats_use_cdn : true
