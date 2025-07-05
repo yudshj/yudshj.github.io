@@ -31,7 +31,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name            : "Yudong Han"
+  name            : "Yudong Han (韩 宇栋)"
   avatar          : "/images/avatar.webp"
   bio             : "Ph.D. Candidate, School of Computer Science, Peking University"
   location        : "Beijing, China"
@@ -39,7 +39,7 @@ author:
   pubmed          : 
   googlescholar   : "https://scholar.google.com/citations?user=NSr44m0AAAAJ"
   email           : "hanyd@pku.edu.cn"
-  researchgate    : "Yudong_Han4"
+  researchgate    : "https://www.researchgate.net/profile/Yudong_Han4"
   uri             :
   bitbucket       :
   codepen         :
