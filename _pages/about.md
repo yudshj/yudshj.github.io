@@ -70,12 +70,11 @@ Currently, I am passionate about optimizing web graphics pipelines and enhancing
     * Subsequent results were published at the WISE 2024 conference. 
 
 <h2 id="experience">Experience</h2>
-* **Research Intern - Alibaba Tongyi Lab (通义实验室)** (July 2025 - Present) 👨‍💻
 
+* **Research Intern - Alibaba Tongyi Lab (通义实验室)** (July 2025 - Present) 👨‍💻
 * **President - Peking University Martial Arts Association** (2025 - Present) 🧑‍💼
     * Designed and taught a 10-week Historical European Martial Arts (HEMA) saber program. 
     * Organized weekly training for over 100 members and secured development funds for the association. 
-
 * **Teaching Assistant - Introduction to Computing (Python)** (Sep 2021 - Sep 2024) 🧑‍🏫
     * Instructed over 480 undergraduate students across four semesters at Peking University. 
     * Developed a [browser-based Python IDE](https://ide.wjpython.bdware.cn) to provide a zero-installation, privacy-first coding environment for beginners. 
