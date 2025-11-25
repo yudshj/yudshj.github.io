@@ -82,6 +82,9 @@ Currently, I am passionate about optimizing web graphics pipelines and enhancing
 
 <h2 id="honors">🏆 Honors and Awards </h2>
 
+* **Dean’s Scholarship**, Institute for Artificial Intelligence, Peking University (2025)
+* **School Scholarship**, Excellent Research Award, Peking University (2025)
+* **Lingyun Linghang’s** Scholarship (2025)
 * **The Web Conference Travel Award** (2025) 🛫
 * **Fourth Place**, 2nd Beijing University Student Historical Fencing Open Competition (2025) 🤺
 * **Second Prize**, EDAthon - International EDA Algorithm Competition (2022) 🥈
