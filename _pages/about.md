@@ -14,6 +14,7 @@ Currently, I am passionate about optimizing web graphics pipelines and enhancing
 
 <h2 id="news">📢 News</h2>
 
+- **[Dec. 2025]** Our paper "Characterizing GPU-accelerated Web Applications in Browsers" was accepted by ICSE 2026. 🎉
 - **[Mar. 2025]** Our paper "GL2GPU" was accepted by TheWebConf 2025 (WWW '25). 🎉
 - **[Mar. 2025]** Our paper "WebANNS" was accepted by SIGIR 2025. 
 - **[Apr. 2025]** Honored to receive "The Web Conference Travel Award". 🏅
@@ -21,6 +22,10 @@ Currently, I am passionate about optimizing web graphics pipelines and enhancing
 - **[May 2023]** Our paper "Who Judges the Judge" was accepted by ISSTA 2023. 
 
 <h2 id="publications">📑 Publications</h2>
+
+* **Characterizing GPU-accelerated Web Applications in Browsers**
+    * **Yudong Han**, Weichen Bi, Haiyang Shen, Mugeng Liu, Ruibo An, Yun Ma
+    * *The 48th International Conference on Software Engineering (ICSE '26)*, CCF-A
 
 * **GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** \[[Demo](https://gl2gpu.hanyd.site)] \[[Paper](https://doi.org/10.1145/3696410.3714785)] 
     * **Yudong Han**, Weichen Bi, Ruibo An, Deyu Tian, Qi Yang, Yun Ma 
