@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-👋 I am Yudong Han (*韩 宇栋*), a Ph.D. candidate at the School of Computer Science, Peking University. My research interests lie in the fields of neural rendering, software/browser testing, 3d digital human, and high-performance computing on the web (WebGPU).
+👋 I am Yudong Han (*韩 宇栋*), a Ph.D. candidate at the School of Computer Science, Peking University. My research interests lie in the fields of neural rendering, computer graphics, agentic software engineering, software/browser testing, 3D digital human, and high-performance computing on the web (WebGPU).
 
-Currently, I am passionate about optimizing web graphics pipelines and enhancing the efficiency of web-based AI applications. 
+Currently, I am passionate about building AI agents for software engineering tasks, optimizing web graphics pipelines, and enhancing the efficiency of web-based AI applications. 
 
 🔗 Check out my [Blog](https://blog.hanyd.site) for technical notes and writings.
 
