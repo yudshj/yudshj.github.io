@@ -29,5 +29,55 @@ layout: compress
 
     {% include scripts.html %}
 
+    <!-- Floating TOC Navigation -->
+    <style>
+    .ftoc-btn{position:fixed;bottom:2rem;right:2rem;width:48px;height:48px;border-radius:50%;background:#2563eb;color:#fff;border:none;font-size:1.4rem;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25);z-index:9999;transition:transform .2s,background .2s;display:flex;align-items:center;justify-content:center}
+    .ftoc-btn:hover{background:#1d4ed8;transform:scale(1.08)}
+    .ftoc-btn.active{background:#1e40af;transform:rotate(90deg)}
+    .ftoc-panel{position:fixed;bottom:5.5rem;right:2rem;background:#1e293b;border:1px solid #334155;border-radius:12px;padding:.6rem 0;max-height:60vh;overflow-y:auto;z-index:9998;box-shadow:0 8px 30px rgba(0,0,0,.3);opacity:0;transform:translateY(10px);pointer-events:none;transition:opacity .2s,transform .2s;min-width:200px;max-width:280px}
+    .ftoc-panel.show{opacity:1;transform:translateY(0);pointer-events:auto}
+    .ftoc-panel a{display:block;padding:.45rem 1.2rem;color:#cbd5e1;text-decoration:none;font-size:.88rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;transition:background .15s,color .15s}
+    .ftoc-panel a:hover{background:#334155;color:#60a5fa}
+    .ftoc-panel a.active{color:#60a5fa;font-weight:600;border-left:3px solid #60a5fa;padding-left:calc(1.2rem - 3px)}
+    @media(max-width:768px){.ftoc-btn,.ftoc-panel{display:none}}
+    </style>
+    <button class="ftoc-btn" id="ftocBtn" aria-label="Table of Contents">☰</button>
+    <nav class="ftoc-panel" id="ftocPanel"></nav>
+    <script>
+    (function(){
+      var btn=document.getElementById('ftocBtn'),panel=document.getElementById('ftocPanel');
+      var heads=document.querySelectorAll('h2[id]');
+      if(heads.length<2){btn.style.display='none';return}
+      heads.forEach(function(h){
+        var a=document.createElement('a');
+        a.href='#'+h.id;
+        a.textContent=h.textContent.replace(/^\s+/,'');
+        a.addEventListener('click',function(e){
+          e.preventDefault();
+          h.scrollIntoView({behavior:'smooth',block:'start'});
+          panel.classList.remove('show');btn.classList.remove('active');
+        });
+        panel.appendChild(a);
+      });
+      btn.addEventListener('click',function(){
+        panel.classList.toggle('show');btn.classList.toggle('active');
+      });
+      document.addEventListener('click',function(e){
+        if(!panel.contains(e.target)&&e.target!==btn){
+          panel.classList.remove('show');btn.classList.remove('active');
+        }
+      });
+      var links=panel.querySelectorAll('a');
+      function updateActive(){
+        var scrollY=window.scrollY||document.documentElement.scrollTop;
+        var current=null;
+        heads.forEach(function(h){if(h.offsetTop-100<=scrollY)current=h.id});
+        links.forEach(function(a){a.classList.toggle('active',a.getAttribute('href')==='#'+current)});
+      }
+      window.addEventListener('scroll',updateActive,{passive:true});
+      updateActive();
+    })();
+    </script>
+
   </body>
 </html>

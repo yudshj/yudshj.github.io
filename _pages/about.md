@@ -25,7 +25,7 @@ Currently, I am passionate about optimizing web graphics pipelines and enhancing
 
 <h2 id="publications">📑 Publications</h2>
 
-* **Characterizing GPU-accelerated Web Applications in Browsers**
+* **Characterizing GPU-accelerated Web Applications in Browsers** \[[Paper](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/296/Characterizing-GPU-accelerated-Web-Applications-in-Browsers)]
   * **Yudong Han**, Weichen Bi, Haiyang Shen, Mugeng Liu, Ruibo An, Yun Ma
   * *The 48th International Conference on Software Engineering (ICSE '26)*, CCF-A
 
@@ -41,7 +41,7 @@ Currently, I am passionate about optimizing web graphics pipelines and enhancing
     * Mugeng Liu, Siqi Zhong, Qi Yang, **Yudong Han**, Xuanzhe Liu, Yun Ma 
     * *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*, CCF-A
 
-* **LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs**
+* **LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs** \[[Paper](https://aclanthology.org/2025.acl-long.20/)] \[[Code](https://github.com/RinCloud/TrickCatcher)]
     * Kaibo Liu, Zhenpeng Chen, Yiyang Liu, Jie Zhang, Mark Harman, **Yudong Han**, Yun Ma, Yihong Dong, Ge Li, Gang Huang 
     * *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*, CCF-A
 
