@@ -12,6 +12,8 @@ redirect_from:
 
 Currently, I am passionate about optimizing web graphics pipelines and enhancing the efficiency of web-based AI applications. 
 
+🔗 Check out my [Blog](https://blog.hanyd.site) for technical notes and writings.
+
 <h2 id="news">📢 News</h2>
 
 - **[Dec. 2025]** Our paper "Characterizing GPU-accelerated Web Applications in Browsers" was accepted by ICSE 2026. 🎉
