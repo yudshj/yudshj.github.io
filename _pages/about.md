@@ -102,3 +102,12 @@ Currently, I am passionate about building AI agents for SE tasks, AI4S, and opti
 * **Languages:** Rust, Python, TypeScript/JavaScript, C++, Java 
 * **Web Technologies:** WebGPU, WebGL, Web App Optimization, Web-based LLM/RAG 
 * **Systems:** Linux Server Maintenance, AWS, LLM Deployment with Edge Computing, Docker, CI/CD
+
+<h2 id="beyond-academia">🥋 Beyond Academia</h2>
+
+<div style="text-align: center;">
+  <img src="/images/hema-2025.webp" alt="Competing at the 2nd Beijing University Student Historical Fencing Open Competition (April 2025)" style="max-width: 600px; width: 100%; border-radius: 8px;">
+  <p><em>Me in a HEMA saber bout, Beijing, April 2025.</em></p>
+</div>
+
+When I'm not debugging WebGPU shaders or training AI agents, you'll find me wielding a longsword or saber in HEMA (Historical European Martial Arts) tournaments. As the current president of Peking University Martial Arts Association, I balance my research pursuits with a passion for reconstructing sword combat techniques.
