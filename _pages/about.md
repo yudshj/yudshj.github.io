@@ -88,7 +88,7 @@ Currently, I am passionate about building AI agents for SE tasks, AI4S, and opti
 
 * **Dean’s Scholarship**, Institute for Artificial Intelligence, Peking University (2025)
 * **School Scholarship**, Excellent Research Award, Peking University (2025)
-* **Lingyun Linghang’s** Scholarship, Peking University (2025)
+* **Lingjun Linghang’s** Scholarship, Lingjun Investment (2025)
 * **The Web Conference Travel Award** (2025) 🛫
 * **Fourth Place**, 2nd Beijing University Student Historical Fencing Open Competition (2025) 🤺
 * **Second Prize**, EDAthon - International EDA Algorithm Competition (2022) 🥈
