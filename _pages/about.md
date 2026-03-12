@@ -65,7 +65,6 @@ Currently, I am passionate about building AI agents for SE tasks, AI4S, and opti
     * Kaibo Liu, **Yudong Han**, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Mark Harman, Gang Huang, Yun Ma 
     * *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '23)*, CCF-A
 
-
 <h2 id="projects">🏗️ Projects</h2>
 
 * **Decentralized Federated Learning for Healthcare Data** (Sep 2024 - Present) 
@@ -80,8 +79,6 @@ Currently, I am passionate about building AI agents for SE tasks, AI4S, and opti
 
 * **Research Intern - Alibaba Tongyi Lab (通义实验室)** (Jul. 2025 - *Present*) 👨‍💻
 * **President - Peking University Martial Arts Association** (Feb. 2025 - *Present*) 🧑‍💼
-    * Designed and taught a 10-week Historical European Martial Arts (HEMA) saber program. 
-    * Organized weekly training for over 100 members and secured development funds for the association. 
 * **Teaching Assistant - Introduction to Computing (Python 🐍)** (Sep. 2021 - Sep. 2024) 🧑‍🏫
     * Instructed over 480 undergraduate students across four semesters at Peking University. 
     * Developed a [browser-based Python IDE](https://ide.wjpython.bdware.cn) to provide a zero-installation, privacy-first coding environment for beginners. 
@@ -91,7 +88,7 @@ Currently, I am passionate about building AI agents for SE tasks, AI4S, and opti
 
 * **Dean’s Scholarship**, Institute for Artificial Intelligence, Peking University (2025)
 * **School Scholarship**, Excellent Research Award, Peking University (2025)
-* **Lingyun Linghang’s** Scholarship (2025)
+* **Lingyun Linghang’s** Scholarship, Peking University (2025)
 * **The Web Conference Travel Award** (2025) 🛫
 * **Fourth Place**, 2nd Beijing University Student Historical Fencing Open Competition (2025) 🤺
 * **Second Prize**, EDAthon - International EDA Algorithm Competition (2022) 🥈
