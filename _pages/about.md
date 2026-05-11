@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-👋 I am Yudong Han (*韩 宇栋*), a Ph.D. candidate at the School of Computer Science, Peking University. My research interests lie in the fields of efficient neural rendering (3DGS), computer graphics, agentic software engineering, AI for Science (AI4S), software/browser testing, and high-performance computing on the web (WebGPU).
+👋 I am Yudong Han (韩宇栋), a Ph.D. candidate at Peking University working on web graphics and LLM for software engineering.
 
-Currently, I am passionate about building AI agents for SE tasks, AI4S, and optimizing web graphics pipelines. 
+- **Position:** Research Intern at Alibaba Tongyi Lab.
+- **Education:** Ph.D. candidate in Computer Science, School of Computer Science, Peking University. B.S. in Computer Science, School of Electronics Engineering and Computer Science, Peking University.
+- **Skills:** Proficient in Rust, Python, TypeScript, Kotlin, and C++, with a strong focus on WebGPU/WebGL optimization, LLM-powered agent systems, 3D AIGC (3DV), and edge computing.
+- **Publications:** Published at ICSE, WWW, SIGIR, ACL, ISSTA, and TPDS — covering browser graphics, software testing, and agentic SE.
 
 🔗 Check out my [Blog](https://blog.hanyd.site) for technical notes and writings.
 
