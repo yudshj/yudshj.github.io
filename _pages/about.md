@@ -10,10 +10,12 @@ redirect_from:
 
 👋 I am Yudong Han (韩宇栋), a Ph.D. candidate at Peking University working on web graphics and LLM for software engineering.
 
-- **Position:** Research Intern at Alibaba Tongyi Lab.
-- **Education:** Ph.D. candidate in Computer Science, School of Computer Science, Peking University. B.S. in Computer Science, School of Electronics Engineering and Computer Science, Peking University.
-- **Skills:** Proficient in Rust, Python, TypeScript, Kotlin, and C++, with a strong focus on WebGPU/WebGL optimization, LLM-powered agent systems, 3D AIGC (3DV), and edge computing.
-- **Publications:** Published at ICSE, WWW, SIGIR, ACL, ISSTA, and TPDS — covering browser graphics, software testing, and agentic SE.
+* **Position:** <img src="/images/logo/qwen-logo.svg" height="1em" style="vertical-align:middle; margin-right:4px;"> Research Intern at Alibaba Tongyi Lab.
+* **Education:** <img src="/images/logo/pku-seal.svg" height="1em" style="vertical-align:middle; margin-right:4px;"> Ph.D. candidate in Computer Science, School of Computer Science, Peking University. B.S. in Computer Science, School of Electronics Engineering and Computer Science, Peking University.
+* **Publications:** Published at ICSE, WWW (TheWebConf), SIGIR, ACL, TPDS, and ISSTA — covering browser graphics, software testing, and agentic software engineering.
+* **Competitive Programming:** 🥈 Silver Medal (Rank 66 Nationally), National Olympiad in Informatics (NOI), 2017.
+* **Skills:** 🧑‍💻 I write Rust, Python, TypeScript, C++, and Kotlin code. My research interests include WebGPU/WebGL optimization, LLM-powered agent systems, and edge computing.
+
 
 🔗 Check out my [Blog](https://blog.hanyd.site) for technical notes and writings.
 
@@ -92,10 +94,10 @@ redirect_from:
 * **Dean’s Scholarship**, Institute for Artificial Intelligence, Peking University (2025)
 * **School Scholarship**, Excellent Research Award, Peking University (2025)
 * **Lingjun Linghang’s** Scholarship, Lingjun Investment (2025)
-* **The Web Conference Travel Award** (2025) 🛫
+* **The Web Conference Travel Award** (2025)
 * **Fourth Place**, 2nd Beijing University Student Historical Fencing Open Competition (2025) 🤺
 * **Second Prize**, EDAthon - International EDA Algorithm Competition (2022) 🥈
-* **Silver Medal**, National Olympiad in Informatics (NOI) (2017) 🥈
+* **Silver Medal (Rank 66th, Nationally)**, National Olympiad in Informatics (NOI) (2017) 🥈
 
 <h2 id="skills">🔧 Technical Skills</h2>
 
