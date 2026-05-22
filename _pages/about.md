@@ -23,8 +23,8 @@ redirect_from:
 
 - **[Dec. 2025]** Our paper "Characterizing GPU-accelerated Web Applications in Browsers" was accepted by ICSE 2026. 🎉
 - **[Mar. 2025]** Our paper "WebANNS" was accepted by SIGIR 2025. 
-- **[Jan. 2025]** Our paper "GL2GPU" was accepted by TheWebConf 2025 (WWW '25). 🎉
-- **[Apr. 2025]** Honored to receive "The Web Conference Travel Award". 🏅
+- **[Jan. 2025]** Our paper "GL2GPU" was accepted by TheWebConf 2025 (WWW '25).
+- **[Apr. 2025]** Honored to receive "The Web Conference Travel Award".
 - **[Jan. 2024]** Our paper "FusionRender" was accepted by TheWebConf 2024 (WWW '24). 
 - **[May 2023]** Our paper "Who Judges the Judge" was accepted by ISSTA 2023. 
 
