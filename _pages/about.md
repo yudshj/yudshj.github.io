@@ -10,8 +10,8 @@ redirect_from:
 
 👋 I am Yudong Han (韩宇栋), a Ph.D. candidate at Peking University working on web graphics and LLM for software engineering.
 
-* **Position:** <img src="/images/logo/qwen-logo.svg" height="1em" style="vertical-align:middle; margin-right:4px;"> Research Intern at Alibaba Tongyi Lab.
-* **Education:** <img src="/images/logo/pku-seal.svg" height="1em" style="vertical-align:middle; margin-right:4px;"> Ph.D. candidate in Computer Science, School of Computer Science, Peking University. B.S. in Computer Science, School of Electronics Engineering and Computer Science, Peking University.
+* **Position:** <img src="/images/logo/qwen-logo.svg" style="height:1.0em; vertical-align:middle; margin-right:4px;"> Research Intern at Alibaba Tongyi Lab.
+* **Education:** <img src="/images/logo/pku-seal.svg" style="height:1.0em; vertical-align:middle; margin-right:4px;"> Ph.D. candidate in Computer Science, School of Computer Science, Peking University. B.S. in Computer Science, School of Electronics Engineering and Computer Science, Peking University.
 * **Publications:** Published at ICSE, WWW (TheWebConf), SIGIR, ACL, TPDS, and ISSTA — covering browser graphics, software testing, and agentic software engineering.
 * **Competitive Programming:** 🥈 Silver Medal (Rank 66 Nationally), National Olympiad in Informatics (NOI), 2017.
 * **Skills:** 🧑‍💻 I write Rust, Python, TypeScript, C++, and Kotlin code. My research interests include WebGPU/WebGL optimization, LLM-powered agent systems, and edge computing.
