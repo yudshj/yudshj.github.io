@@ -12,7 +12,7 @@ redirect_from:
 
 * **Position:** <img src="/images/logo/qwen-logo.svg" style="height:1.0em; vertical-align:middle; margin-right:4px;">Research Intern at Alibaba Tongyi Lab.
 * **Education:** <img src="/images/logo/pku-seal.svg" style="height:1.0em; vertical-align:middle; margin-right:4px;">Ph.D. candidate in Computer Science, School of Computer Science, Peking University. B.S. in Computer Science, School of Electronics Engineering and Computer Science, Peking University.
-* **Publications:** Published at ICSE, WWW (TheWebConf), SIGIR, ACL, TPDS, and ISSTA — covering browser graphics, software testing, and agentic software engineering.
+* **Publications:** Published at ACM Multimedia, ICSE, WWW (TheWebConf), SIGIR, ACL, TPDS, and ISSTA — covering browser graphics, software testing, and agentic software engineering.
 * **Competitive Programming:** 🥈 Silver Medal (Rank 66 Nationally), National Olympiad in Informatics (NOI), 2017.
 * **Skills:** 🧑‍💻 I write Rust, Python, TypeScript, C++, and Kotlin code. My research interests include WebGPU/WebGL optimization, LLM-powered agent systems, and edge computing.
 
@@ -21,6 +21,7 @@ redirect_from:
 
 <h2 id="news">📢 News</h2>
 
+- **[Jul. 2026]** Our paper "WebSplatter" was accepted by ACM Multimedia 2026. 🎉
 - **[Dec. 2025]** Our paper "Characterizing GPU-accelerated Web Applications in Browsers" was accepted by ICSE 2026. 🎉
 - **[Mar. 2025]** Our paper "WebANNS" was accepted by SIGIR 2025. 
 - **[Jan. 2025]** Our paper "GL2GPU" was accepted by TheWebConf 2025 (WWW '25).
@@ -29,6 +30,10 @@ redirect_from:
 - **[May 2023]** Our paper "Who Judges the Judge" was accepted by ISSTA 2023. 
 
 <h2 id="publications">📑 Publications</h2>
+
+* **WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU** \[[Paper](https://arxiv.org/abs/2602.03207)]
+  * **Yudong Han**, Chao Xu, Xiaodan Ye, Weichen Bi, Zilong Dong, Yun Ma
+  * *The 34th ACM International Conference on Multimedia (ACM Multimedia '26)*, CCF-A
 
 * **Characterizing GPU-accelerated Web Applications in Browsers** \[[Paper](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/296/Characterizing-GPU-accelerated-Web-Applications-in-Browsers)]
   * **Yudong Han**, Weichen Bi, Haiyang Shen, Mugeng Liu, Ruibo An, Yun Ma
