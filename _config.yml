@@ -7,7 +7,7 @@
 
 # Site Settings
 title                   : "Yudong Han"
-description             : "Yudong Han's personal academic homepage. A Ph.D. candidate at Peking University, focusing on efficient 3D gaussian splatting (3DGS), agentic software engineering, software testing, and high-performance web graphics (WebGPU)."
+description             : "Focusing on efficient 3D Gaussian Splatting (3DGS), agentic software engineering, software testing, and high-performance web graphics (WebGPU)."
 repository              : "yudshj/yudshj.github.io" # e.g., "RayeRen/acad-homepage.github.io"
 url                     : "https://hanyd.site"
 google_scholar_stats_use_cdn : true
@@ -34,7 +34,6 @@ author:
   name            : "Yudong Han"
   avatar          : "/images/avatar.webp"
   bio             : "Ph.D. Candidate, School of Computer Science, Peking University"
-  location        : "Beijing, China"
   employer        : "Peking University"
   pubmed          : 
   googlescholar   : "https://scholar.google.com/citations?user=NSr44m0AAAAJ"

@@ -10,7 +10,7 @@ redirect_from:
 
 👋 I am Yudong Han (韩宇栋), a Ph.D. candidate at Peking University working on web graphics and LLM for software engineering.
 
-* **Position:** <img src="/images/logo/qwen-logo.svg" style="height:1.0em; vertical-align:middle; margin-right:4px;">Research Intern at Alibaba Tongyi Lab.
+* **Position:** <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-right:4px;">Intern at Google in Shanghai, working on Pixel Personalization.
 * **Education:** <img src="/images/logo/pku-seal.svg" style="height:1.0em; vertical-align:middle; margin-right:4px;">Ph.D. candidate in Computer Science, School of Computer Science, Peking University. B.S. in Computer Science, School of Electronics Engineering and Computer Science, Peking University.
 * **Publications:** Published at ACM Multimedia, ICSE, WWW (TheWebConf), SIGIR, ACL, TPDS, and ISSTA — covering browser graphics, software testing, and agentic software engineering.
 * **Competitive Programming:** 🥈 Silver Medal (Rank 66 Nationally), National Olympiad in Informatics (NOI), 2017.
@@ -87,9 +87,10 @@ redirect_from:
 
 <h2 id="experience">Experience</h2>
 
-* **Research Intern - Alibaba Tongyi Lab (通义实验室)** (Jul. 2025 - *Present*) 👨‍💻
-* **President - Peking University Martial Arts Association** (Feb. 2025 - *Present*) 🧑‍💼
-* **Teaching Assistant - Introduction to Computing (Python 🐍)** (Sep. 2021 - Sep. 2024) 🧑‍🏫
+* **Intern - Google (Shanghai), Pixel Personalization** (Jun. 2026 - *Present*) <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-left:4px;">
+* **Research Intern - Alibaba Tongyi Lab (通义实验室)** (Jul. 2025 - May 2026) <img src="/images/logo/qwen-logo.svg" alt="Alibaba Tongyi Lab" style="height:1.0em; vertical-align:middle; margin-left:4px;">
+* **President - Peking University Martial Arts Association** (Feb. 2025 - *Present*) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
+* <strong>Teaching Assistant - Introduction to Computing (Python <img src="/images/logo/python-logo.svg" alt="Python" style="height:1.0em; vertical-align:middle; margin-left:2px;">)</strong> (Sep. 2021 - Sep. 2024) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
     * Instructed over 480 undergraduate students across four semesters at Peking University. 
     * Developed a [browser-based Python IDE](https://ide.wjpython.bdware.cn) to provide a zero-installation, privacy-first coding environment for beginners. 
     * Created a ["Cyber TA"](https://helper.wjpython.bdware.cn) powered by LLMs to offer students 24/7 automated debugging support. 
