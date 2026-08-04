@@ -22,7 +22,7 @@ redirect_from:
 <h2 id="news">📢 News</h2>
 
 - **[Jul. 2026]** Our paper "WebSplatter" was accepted by ACM Multimedia 2026. 🎉
-- **[Dec. 2025]** Our IC-PACE course received the **2025 GMA Awards: AI Special Recognition**. \[[Certificate](/files/GMA.pdf)] \[[News](https://mp.weixin.qq.com/s/H56_oggdwzif4Z01wfr5Ig)] 🎉
+- **[Dec. 2025]** Our IC-PACE course received the 2025 GMA Awards: AI Special Recognition.
 - **[Dec. 2025]** Our paper "Characterizing GPU-accelerated Web Applications in Browsers" was accepted by ICSE 2026.
 - **[Mar. 2025]** Our paper "WebANNS" was accepted by SIGIR 2025. 
 - **[Jan. 2025]** Our paper "GL2GPU" was accepted by TheWebConf 2025 (WWW '25).
