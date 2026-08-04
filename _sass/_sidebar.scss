@@ -237,6 +237,12 @@
     white-space: nowrap;
   }
 
+  .author-link {
+    display: flex;
+    align-items: center;
+    gap: 0.55em;
+  }
+
   a {
     display: block;
     margin-bottom: 5px;
@@ -253,6 +259,27 @@
   }
 }
 
+.sidebar-link-icon {
+  display: inline-flex;
+  flex: 0 0 1.15rem;
+  width: 1.15rem;
+  height: 1.15rem;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  color: $dark-gray;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.7;
+  transition: color 0.15s ease-in-out;
+}
+
+a:hover .sidebar-link-icon {
+  color: $primary-color;
+}
+
 .author__urls_sm{
   padding: .25em;
   font-size: 1.75em;
@@ -263,6 +290,9 @@
     &:hover {
       text-decoration: underline;
     }
+  }
+  .sidebar-link-icon {
+    margin-right: 0.15em;
   }
   @include breakpoint($large) {
     display: none;
