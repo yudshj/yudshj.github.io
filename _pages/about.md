@@ -46,8 +46,6 @@ redirect_from:
 
 <h2 id="publications">📑 Publications</h2>
 
-*CCF refers to the China Computer Federation, whose [official classification](https://www.ccf.org.cn/Academic_Evaluation/By_category/) groups recommended international conferences and journals into A, B, and C tiers.*
-
 * **<span class="publication-venue">[MM&#39;26]</span> WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU** \[[Project](https://websplatter.github.io/)] \[[Paper](https://arxiv.org/abs/2602.03207)]
   * **Yudong Han**, Chao Xu, Xiaodan Ye, Weichen Bi, Zilong Dong, Yun Ma
   * *The 34th ACM International Conference on Multimedia (ACM Multimedia '26)*, CCF-A
@@ -102,6 +100,8 @@ redirect_from:
     * Kaibo Liu, **Yudong Han**, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Mark Harman, Gang Huang, Yun Ma 
     * *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '23)*, CCF-A
     * Acceptance rate = 31.5 % (117/372)
+
+*CCF refers to the China Computer Federation, whose [official classification](https://www.ccf.org.cn/Academic_Evaluation/By_category/) groups recommended international conferences and journals into A, B, and C tiers.*
 
 <h2 id="honors">🏆 Honors and Awards </h2>
 
