@@ -22,7 +22,8 @@ redirect_from:
 <h2 id="news">📢 News</h2>
 
 - **[Jul. 2026]** Our paper "WebSplatter" was accepted by ACM Multimedia 2026. 🎉
-- **[Dec. 2025]** Our paper "Characterizing GPU-accelerated Web Applications in Browsers" was accepted by ICSE 2026. 🎉
+- **[Dec. 2025]** Our IC-PACE course received the **2025 GMA Awards: AI Special Recognition**. \[[Certificate](/files/GMA.pdf)] \[[News](https://mp.weixin.qq.com/s/H56_oggdwzif4Z01wfr5Ig)] 🎉
+- **[Dec. 2025]** Our paper "Characterizing GPU-accelerated Web Applications in Browsers" was accepted by ICSE 2026.
 - **[Mar. 2025]** Our paper "WebANNS" was accepted by SIGIR 2025. 
 - **[Jan. 2025]** Our paper "GL2GPU" was accepted by TheWebConf 2025 (WWW '25).
 - **[Apr. 2025]** Honored to receive "The Web Conference Travel Award".
@@ -34,10 +35,13 @@ redirect_from:
 * **Intern - Google (Shanghai), Pixel Personalization** (Jun. 2026 - Aug. 2026) <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-left:4px;">
 * **Research Intern - Alibaba Tongyi Lab (通义实验室)** (Jul. 2025 - May 2026) <img src="/images/logo/qwen-logo.svg" alt="Alibaba Tongyi Lab" style="height:1.0em; vertical-align:middle; margin-left:4px;">
 * **President - Peking University Martial Arts Association** (Feb. 2025 - *Present*) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
-* <strong>Teaching Assistant - Introduction to Computing (Python <img src="/images/logo/python-logo.svg" alt="Python" style="height:1.0em; vertical-align:middle; margin-left:2px;">)</strong> (Sep. 2021 - Sep. 2024) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
-    * Instructed over 480 undergraduate students across four semesters at Peking University.
+    * Lead a 200-member student association; design and teach a 10-week HEMA saber program combining historical manuscripts with modern sport fencing training.
+    * Organized the **“Exploring Bajiquan”** lecture featuring a national intangible cultural heritage inheritor and a NetEase 24 Entertainment action artist; joined their dialogue on martial arts heritage and game action design. \[[News](https://mp.weixin.qq.com/s/Fa1qZsV7osNbdiHHx6n0rw)]
+* <strong>Teaching Assistant - Introduction to Computing (Python <img src="/images/logo/python-logo.svg" alt="Python" style="height:1.0em; vertical-align:middle; margin-left:2px;">)</strong> (Sep. 2021 - Dec. 2025) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
+    * Instructed 500+ undergraduate students at Peking University.
     * Developed a [browser-based Python IDE](https://ide.wjpython.bdware.cn) to provide a zero-installation, privacy-first coding environment for beginners.
     * Created a ["Cyber TA"](https://helper.wjpython.bdware.cn) powered by LLMs to offer students 24/7 automated debugging support.
+    * The course received the **2025 GMA Awards: AI Special Recognition**. \[[Certificate](/files/GMA.pdf)] \[[News](https://mp.weixin.qq.com/s/H56_oggdwzif4Z01wfr5Ig)]
 
 <h2 id="publications">📑 Publications</h2>
 
@@ -102,6 +106,7 @@ redirect_from:
 * **School Scholarship**, Excellent Research Award, Peking University (2025)
 * **Lingjun Linghang’s** Scholarship, Lingjun Investment (2025)
 * **The Web Conference Travel Award** (2025)
+* **GMA Awards: AI Special Recognition** \[[Certificate](/files/GMA.pdf)] \[[News](https://mp.weixin.qq.com/s/H56_oggdwzif4Z01wfr5Ig)] (2025)
 * **Fourth Place**, 2nd Beijing University Student Historical Fencing Open Competition (2025) 🤺
 * **Second Prize**, EDAthon - International EDA Algorithm Competition (2022) 🥈
 * **Silver Medal (Rank 66th, Nationally)**, National Olympiad in Informatics (NOI) (2017) 🥈
