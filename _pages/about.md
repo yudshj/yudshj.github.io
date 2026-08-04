@@ -29,7 +29,7 @@ redirect_from:
     * Organized the **“Exploring Bajiquan”** lecture featuring a national intangible cultural heritage inheritor and a NetEase 24 Entertainment action artist; joined their dialogue on martial arts heritage and game action design. \[[News](https://mp.weixin.qq.com/s/Fa1qZsV7osNbdiHHx6n0rw)]
 * <strong>Teaching Assistant - Introduction to Computing (Python <img src="/images/logo/python-logo.svg" alt="Python" style="height:1.0em; vertical-align:middle; margin-left:2px;">)</strong> (Sep. 2021 - Dec. 2025) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
     * Instructed 500+ undergraduate students at Peking University.
-    * Developed a [browser-based Python IDE](https://ide.wjpython.bdware.cn) to provide a zero-installation, privacy-first coding environment for beginners.
+    * Developed an [in-browser Python IDE](https://ide.wjpython.bdware.cn) to provide a cross-platform, zero-installation, and privacy-first coding environment for beginners.
     * Created a ["Cyber TA"](https://helper.wjpython.bdware.cn) powered by LLMs to offer students 24/7 automated debugging support.
     * The course received the **2025 GMA Awards: AI Special Recognition**. \[[Certificate](/files/GMA.pdf)] \[[News](https://mp.weixin.qq.com/s/H56_oggdwzif4Z01wfr5Ig)]
 
