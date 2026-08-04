@@ -45,7 +45,7 @@ redirect_from:
 
 <h2 id="publications">📑 Publications</h2>
 
-* **<span class="publication-venue">[MM&#39;26]</span> WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU** \[[Paper](https://arxiv.org/abs/2602.03207)]
+* **<span class="publication-venue">[MM&#39;26]</span> WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU** \[[Project](https://websplatter.github.io/)] \[[Paper](https://arxiv.org/abs/2602.03207)]
   * **Yudong Han**, Chao Xu, Xiaodan Ye, Weichen Bi, Zilong Dong, Yun Ma
   * *The 34th ACM International Conference on Multimedia (ACM Multimedia '26)*, CCF-A
   * Acceptance rate ≈ 25.0 % (7,053 submissions)
@@ -55,7 +55,7 @@ redirect_from:
   * *The 48th International Conference on Software Engineering (ICSE '26)*, CCF-A
   * Acceptance rate = 21.9 % (321/1,469, research track)
 
-* **<span class="publication-venue">[WWW&#39;25]</span> GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** \[[Demo](https://gl2gpu.hanyd.site)] \[[Paper](https://doi.org/10.1145/3696410.3714785)]
+* **<span class="publication-venue">[WWW&#39;25]</span> GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** \[[Demo](https://gl2gpu.github.io/)] \[[Paper](https://doi.org/10.1145/3696410.3714785)]
     * **Yudong Han**, Weichen Bi, Ruibo An, Deyu Tian, Qi Yang, Yun Ma 
     * *The Web Conference 2025 (TheWebConf '25)*, CCF-A 
     * Acceptance rate = 19.8 % (409/2,062, oral)
