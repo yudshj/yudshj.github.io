@@ -46,6 +46,8 @@ redirect_from:
 
 <h2 id="publications">📑 Publications</h2>
 
+*CCF refers to the China Computer Federation, whose [official classification](https://www.ccf.org.cn/Academic_Evaluation/By_category/) groups recommended international conferences and journals into A, B, and C tiers.*
+
 * **<span class="publication-venue">[MM&#39;26]</span> WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU** \[[Project](https://websplatter.github.io/)] \[[Paper](https://arxiv.org/abs/2602.03207)]
   * **Yudong Han**, Chao Xu, Xiaodan Ye, Weichen Bi, Zilong Dong, Yun Ma
   * *The 34th ACM International Conference on Multimedia (ACM Multimedia '26)*, CCF-A
