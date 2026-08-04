@@ -29,72 +29,72 @@ redirect_from:
 - **[Jan. 2024]** Our paper "FusionRender" was accepted by TheWebConf 2024 (WWW '24). 
 - **[May 2023]** Our paper "Who Judges the Judge" was accepted by ISSTA 2023. 
 
-<h2 id="publications">📑 Publications</h2>
-
-* **WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU** \[[Paper](https://arxiv.org/abs/2602.03207)]
-  * **Yudong Han**, Chao Xu, Xiaodan Ye, Weichen Bi, Zilong Dong, Yun Ma
-  * *The 34th ACM International Conference on Multimedia (ACM Multimedia '26)*, CCF-A
-  * Acceptance rate ≈ 25.0 % (7,053 submissions)
-
-* **Characterizing GPU-accelerated Web Applications in Browsers** \[[Paper](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/296/Characterizing-GPU-accelerated-Web-Applications-in-Browsers)]
-  * **Yudong Han**, Weichen Bi, Haiyang Shen, Mugeng Liu, Ruibo An, Yun Ma
-  * *The 48th International Conference on Software Engineering (ICSE '26)*, CCF-A
-  * Acceptance rate = 21.9 % (321/1,469, research track)
-
-* **GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** \[[Demo](https://gl2gpu.hanyd.site)] \[[Paper](https://doi.org/10.1145/3696410.3714785)] 
-    * **Yudong Han**, Weichen Bi, Ruibo An, Deyu Tian, Qi Yang, Yun Ma 
-    * *The Web Conference 2025 (TheWebConf '25)*, CCF-A 
-    * Acceptance rate = 19.8 % (409/2,062, oral)
-
-* **DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning** \[[Code](https://github.com/yudshj/defl-hotstuff)] \[[Paper](https://doi.org/10.1109/TPDS.2024.3501581)] 
-    * Jialiang Han, **Yudong Han**, Xiang Jing, Gang Huang, Yun Ma 
-    * *IEEE Transactions on Parallel and Distributed Systems (TPDS '25)*, CCF-A 
-    * Impact Factor = 5.9 (2025)
-
-* **WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers** \[[Paper](https://doi.org/10.1145/3726302.3730115)]
-    * Mugeng Liu, Siqi Zhong, Qi Yang, **Yudong Han**, Xuanzhe Liu, Yun Ma 
-    * *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*, CCF-A
-    * Acceptance rate = 22.3 % (239/1,071, full paper)
-
-* **LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs** \[[Paper](https://aclanthology.org/2025.acl-long.20/)] \[[Code](https://github.com/RinCloud/TrickCatcher)]
-    * Kaibo Liu, Zhenpeng Chen, Yiyang Liu, Jie Zhang, Mark Harman, **Yudong Han**, Yun Ma, Yihong Dong, Ge Li, Gang Huang 
-    * *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*, CCF-A
-    * Acceptance rate = 20.3 % (1,699/8,360, main conference)
-
-* **FusionRender: Harnessing WebGPU's Power for Enhanced Graphics Performance on Web Browsers** \[[Paper](https://doi.org/10.1145/3589334.3645395)]
-    * Weichen Bi, Yun Ma, **Yudong Han**, Yifan Chen, Deyu Tian, Jiaqi Du 
-    * *The Web Conference 2024 (TheWebConf '24)*, CCF-A
-    * Acceptance rate = 20.2 % (405/2,008)
-
-* **WPIA: Accelerating DNN Warm-up in Web Browsers by Precompiling WebGL Programs** \[[Paper](https://doi.org/10.1007/s11704-024-40066-w)]
-    * Deyu Tian, Yun Ma, **Yudong Han**, Qi Yang, Haochen Yang, Gang Huang 
-    * *Frontiers Comput. Sci. 2024*, CCF-B
-    * Impact Factor = 7.3 (2025)
-
-* **TrickyBugs: A Dataset of Corner-case Bugs in Plausible Programs** \[[Paper](https://doi.org/10.1145/3643991.3644870)]
-    * Kaibo Liu, **Yudong Han**, Yiyang Liu, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Gang Huang, Yun Ma 
-    * *the 21st International Conference on Mining Software Repositories (MSR 2024)*, CCF-C
-    * Acceptance rate = 28.8 % (42/146, technical track)
-
-* **Web-Based Al Assistant for Medical Imaging: A Case Study on Predicting Spontaneous Preterm Birth via Ultrasound Images** \[[Paper](https://doi.org/10.1007/978-981-96-0573-6_22)]
-    * Weichen Bi, Zijian Shao, **Yudong Han**, Jiaqi Du, Yuan Wei, Lijuan Guo, Tianchen Wu, Shuang Li, Yun Ma 
-    * *The International Web Information Systems Engineering conference (WISE 2024)*, CCF-C
-    * Acceptance rate = 29.9 % (110/368, full paper)
-
-* **Who Judges the Judge: An Empirical Study on Online Judge Tests** \[[Paper](https://doi.org/10.5281/zenodo.7977256)]
-    * Kaibo Liu, **Yudong Han**, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Mark Harman, Gang Huang, Yun Ma 
-    * *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '23)*, CCF-A
-    * Acceptance rate = 31.5 % (117/372)
-
 <h2 id="experience">Experience</h2>
 
 * **Intern - Google (Shanghai), Pixel Personalization** (Jun. 2026 - Aug. 2026) <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-left:4px;">
 * **Research Intern - Alibaba Tongyi Lab (通义实验室)** (Jul. 2025 - May 2026) <img src="/images/logo/qwen-logo.svg" alt="Alibaba Tongyi Lab" style="height:1.0em; vertical-align:middle; margin-left:4px;">
 * **President - Peking University Martial Arts Association** (Feb. 2025 - *Present*) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
 * <strong>Teaching Assistant - Introduction to Computing (Python <img src="/images/logo/python-logo.svg" alt="Python" style="height:1.0em; vertical-align:middle; margin-left:2px;">)</strong> (Sep. 2021 - Sep. 2024) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
-    * Instructed over 480 undergraduate students across four semesters at Peking University. 
-    * Developed a [browser-based Python IDE](https://ide.wjpython.bdware.cn) to provide a zero-installation, privacy-first coding environment for beginners. 
-    * Created a ["Cyber TA"](https://helper.wjpython.bdware.cn) powered by LLMs to offer students 24/7 automated debugging support. 
+    * Instructed over 480 undergraduate students across four semesters at Peking University.
+    * Developed a [browser-based Python IDE](https://ide.wjpython.bdware.cn) to provide a zero-installation, privacy-first coding environment for beginners.
+    * Created a ["Cyber TA"](https://helper.wjpython.bdware.cn) powered by LLMs to offer students 24/7 automated debugging support.
+
+<h2 id="publications">📑 Publications</h2>
+
+* **<span class="publication-venue">[MM&#39;26]</span> WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU** \[[Paper](https://arxiv.org/abs/2602.03207)]
+  * **Yudong Han**, Chao Xu, Xiaodan Ye, Weichen Bi, Zilong Dong, Yun Ma
+  * *The 34th ACM International Conference on Multimedia (ACM Multimedia '26)*, CCF-A
+  * Acceptance rate ≈ 25.0 % (7,053 submissions)
+
+* **<span class="publication-venue">[ICSE&#39;26]</span> Characterizing GPU-accelerated Web Applications in Browsers** \[[Paper](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/296/Characterizing-GPU-accelerated-Web-Applications-in-Browsers)]
+  * **Yudong Han**, Weichen Bi, Haiyang Shen, Mugeng Liu, Ruibo An, Yun Ma
+  * *The 48th International Conference on Software Engineering (ICSE '26)*, CCF-A
+  * Acceptance rate = 21.9 % (321/1,469, research track)
+
+* **<span class="publication-venue">[WWW&#39;25]</span> GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** \[[Demo](https://gl2gpu.hanyd.site)] \[[Paper](https://doi.org/10.1145/3696410.3714785)]
+    * **Yudong Han**, Weichen Bi, Ruibo An, Deyu Tian, Qi Yang, Yun Ma 
+    * *The Web Conference 2025 (TheWebConf '25)*, CCF-A 
+    * Acceptance rate = 19.8 % (409/2,062, oral)
+
+* **<span class="publication-venue">[TPDS&#39;25]</span> DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning** \[[Code](https://github.com/yudshj/defl-hotstuff)] \[[Paper](https://doi.org/10.1109/TPDS.2024.3501581)]
+    * Jialiang Han, **Yudong Han**, Xiang Jing, Gang Huang, Yun Ma 
+    * *IEEE Transactions on Parallel and Distributed Systems (TPDS '25)*, CCF-A 
+    * Impact Factor = 5.9 (2025)
+
+* **<span class="publication-venue">[SIGIR&#39;25]</span> WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers** \[[Paper](https://doi.org/10.1145/3726302.3730115)]
+    * Mugeng Liu, Siqi Zhong, Qi Yang, **Yudong Han**, Xuanzhe Liu, Yun Ma 
+    * *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*, CCF-A
+    * Acceptance rate = 22.3 % (239/1,071, full paper)
+
+* **<span class="publication-venue">[ACL&#39;25]</span> LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs** \[[Paper](https://aclanthology.org/2025.acl-long.20/)] \[[Code](https://github.com/RinCloud/TrickCatcher)]
+    * Kaibo Liu, Zhenpeng Chen, Yiyang Liu, Jie Zhang, Mark Harman, **Yudong Han**, Yun Ma, Yihong Dong, Ge Li, Gang Huang 
+    * *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*, CCF-A
+    * Acceptance rate = 20.3 % (1,699/8,360, main conference)
+
+* **<span class="publication-venue">[WWW&#39;24]</span> FusionRender: Harnessing WebGPU's Power for Enhanced Graphics Performance on Web Browsers** \[[Paper](https://doi.org/10.1145/3589334.3645395)]
+    * Weichen Bi, Yun Ma, **Yudong Han**, Yifan Chen, Deyu Tian, Jiaqi Du 
+    * *The Web Conference 2024 (TheWebConf '24)*, CCF-A
+    * Acceptance rate = 20.2 % (405/2,008)
+
+* **<span class="publication-venue">[FCS&#39;24]</span> WPIA: Accelerating DNN Warm-up in Web Browsers by Precompiling WebGL Programs** \[[Paper](https://doi.org/10.1007/s11704-024-40066-w)]
+    * Deyu Tian, Yun Ma, **Yudong Han**, Qi Yang, Haochen Yang, Gang Huang 
+    * *Frontiers Comput. Sci. 2024*, CCF-B
+    * Impact Factor = 7.3 (2025)
+
+* **<span class="publication-venue">[MSR&#39;24]</span> TrickyBugs: A Dataset of Corner-case Bugs in Plausible Programs** \[[Paper](https://doi.org/10.1145/3643991.3644870)]
+    * Kaibo Liu, **Yudong Han**, Yiyang Liu, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Gang Huang, Yun Ma 
+    * *the 21st International Conference on Mining Software Repositories (MSR 2024)*, CCF-C
+    * Acceptance rate = 28.8 % (42/146, technical track)
+
+* **<span class="publication-venue">[WISE&#39;24]</span> Web-Based Al Assistant for Medical Imaging: A Case Study on Predicting Spontaneous Preterm Birth via Ultrasound Images** \[[Paper](https://doi.org/10.1007/978-981-96-0573-6_22)]
+    * Weichen Bi, Zijian Shao, **Yudong Han**, Jiaqi Du, Yuan Wei, Lijuan Guo, Tianchen Wu, Shuang Li, Yun Ma 
+    * *The International Web Information Systems Engineering conference (WISE 2024)*, CCF-C
+    * Acceptance rate = 29.9 % (110/368, full paper)
+
+* **<span class="publication-venue">[ISSTA&#39;23]</span> Who Judges the Judge: An Empirical Study on Online Judge Tests** \[[Paper](https://doi.org/10.5281/zenodo.7977256)]
+    * Kaibo Liu, **Yudong Han**, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Mark Harman, Gang Huang, Yun Ma 
+    * *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '23)*, CCF-A
+    * Acceptance rate = 31.5 % (117/372)
 
 <h2 id="honors">🏆 Honors and Awards </h2>
 
@@ -114,9 +114,9 @@ redirect_from:
 
 <h2 id="beyond-academia">🥋 Beyond Academia</h2>
 
+When I'm not debugging WebGPU shaders or training AI agents, you'll find me wielding a longsword or saber in HEMA (Historical European Martial Arts) tournaments. As the current president of Peking University Martial Arts Association, I balance my research pursuits with a passion for reconstructing sword combat techniques.
+
 <div style="text-align: center;">
   <img src="/images/hema-2025.webp" alt="Competing at the 2nd Beijing University Student Historical Fencing Open Competition (April 2025)" style="max-width: 600px; width: 100%; border-radius: 8px;">
   <p><em>Me in a HEMA saber bout, Beijing, April 2025.</em></p>
 </div>
-
-When I'm not debugging WebGPU shaders or training AI agents, you'll find me wielding a longsword or saber in HEMA (Historical European Martial Arts) tournaments. As the current president of Peking University Martial Arts Association, I balance my research pursuits with a passion for reconstructing sword combat techniques.
