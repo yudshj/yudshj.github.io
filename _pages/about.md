@@ -86,16 +86,6 @@ redirect_from:
     * *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '23)*, CCF-A
     * Acceptance rate = 31.5 % (117/372)
 
-<h2 id="projects">🏗️ Projects</h2>
-
-* **Decentralized Federated Learning for Healthcare Data** (Sep 2024 - Present) 
-    * An industrial implementation of our research paper, "DegaFL," in collaboration with Peking University Third Hospital. 
-    * My Role: Algorithm Design, System Development in Rust, and coordination with third-party testing. 
-
-* **Medical Imaging Recognition Project** (Sep 2022 - Sep 2023) 
-    * Developed a system for disease prediction based on multimodal data from hospital imaging. 
-    * Subsequent results were published at the WISE 2024 conference. 
-
 <h2 id="experience">Experience</h2>
 
 * **Intern - Google (Shanghai), Pixel Personalization** (Jun. 2026 - Aug. 2026) <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-left:4px;">
