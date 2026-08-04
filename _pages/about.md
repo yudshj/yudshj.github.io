@@ -34,6 +34,7 @@ redirect_from:
 
 * **Intern - Google (Shanghai), Pixel Personalization** (Jun. 2026 - Aug. 2026) <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-left:4px;">
 * **Research Intern - Alibaba Tongyi Lab (通义实验室)** (Jul. 2025 - May 2026) <img src="/images/logo/qwen-logo.svg" alt="Alibaba Tongyi Lab" style="height:1.0em; vertical-align:middle; margin-left:4px;">
+    * Designed and built [WebSplatter](https://websplatter.github.io/), a high-performance, high-fidelity in-browser 3D Gaussian Splatting rendering engine, achieving **1.2–4.5× speedups** over state-of-the-art web-based 3DGS viewers.
 * **President - Peking University Martial Arts Association** (Feb. 2025 - *Present*) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
     * Lead a 200-member student association; design and teach a 10-week HEMA saber program combining historical manuscripts with modern sport fencing training.
     * Organized the **“Exploring Bajiquan”** lecture featuring a national intangible cultural heritage inheritor and a NetEase 24 Entertainment action artist; joined their dialogue on martial arts heritage and game action design. \[[News](https://mp.weixin.qq.com/s/Fa1qZsV7osNbdiHHx6n0rw)]
@@ -55,7 +56,7 @@ redirect_from:
   * *The 48th International Conference on Software Engineering (ICSE '26)*, CCF-A
   * Acceptance rate = 21.9 % (321/1,469, research track)
 
-* **<span class="publication-venue">[WWW&#39;25]</span> GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** \[[Demo](https://gl2gpu.github.io/)] \[[Paper](https://doi.org/10.1145/3696410.3714785)]
+* **<span class="publication-venue">[WWW&#39;25]</span> GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** \[[Project](https://gl2gpu.github.io/)] \[[Paper](https://doi.org/10.1145/3696410.3714785)]
     * **Yudong Han**, Weichen Bi, Ruibo An, Deyu Tian, Qi Yang, Yun Ma 
     * *The Web Conference 2025 (TheWebConf '25)*, CCF-A 
     * Acceptance rate = 19.8 % (409/2,062, oral)
