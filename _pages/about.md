@@ -44,7 +44,7 @@ redirect_from:
 * **GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** \[[Demo](https://gl2gpu.hanyd.site)] \[[Paper](https://doi.org/10.1145/3696410.3714785)] 
     * **Yudong Han**, Weichen Bi, Ruibo An, Deyu Tian, Qi Yang, Yun Ma 
     * *The Web Conference 2025 (TheWebConf '25)*, CCF-A 
-    * Acceptance rate = 19.8 % (409/2,062)
+    * Acceptance rate = 19.8 % (409/2,062, oral)
 
 * **DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning** \[[Code](https://github.com/yudshj/defl-hotstuff)] \[[Paper](https://doi.org/10.1109/TPDS.2024.3501581)] 
     * Jialiang Han, **Yudong Han**, Xiang Jing, Gang Huang, Yun Ma 
