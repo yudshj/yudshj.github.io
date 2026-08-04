@@ -39,7 +39,7 @@ redirect_from:
 * **Characterizing GPU-accelerated Web Applications in Browsers** \[[Paper](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/296/Characterizing-GPU-accelerated-Web-Applications-in-Browsers)]
   * **Yudong Han**, Weichen Bi, Haiyang Shen, Mugeng Liu, Ruibo An, Yun Ma
   * *The 48th International Conference on Software Engineering (ICSE '26)*, CCF-A
-  * Acceptance rate = 19.8 % (160/809, cycle 2)
+  * Acceptance rate = 21.9 % (321/1,469, research track)
 
 * **GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** \[[Demo](https://gl2gpu.hanyd.site)] \[[Paper](https://doi.org/10.1145/3696410.3714785)] 
     * **Yudong Han**, Weichen Bi, Ruibo An, Deyu Tian, Qi Yang, Yun Ma 
