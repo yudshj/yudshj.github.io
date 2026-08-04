@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "News"
-    url: "/#news"
-
   - title: "Experience"
     url: "/#experience"
 

@@ -19,17 +19,6 @@ redirect_from:
 
 🔗 Check out my [Blog](https://blog.hanyd.site) for technical notes and writings.
 
-<h2 id="news">📢 News</h2>
-
-- **[Jul. 2026]** Our paper "WebSplatter" was accepted by ACM Multimedia 2026. 🎉
-- **[Dec. 2025]** Our IC-PACE course received the 2025 GMA Awards: AI Special Recognition.
-- **[Dec. 2025]** Our paper "Characterizing GPU-accelerated Web Applications in Browsers" was accepted by ICSE 2026.
-- **[Mar. 2025]** Our paper "WebANNS" was accepted by SIGIR 2025. 
-- **[Jan. 2025]** Our paper "GL2GPU" was accepted by TheWebConf 2025 (WWW '25).
-- **[Apr. 2025]** Honored to receive "The Web Conference Travel Award".
-- **[Jan. 2024]** Our paper "FusionRender" was accepted by TheWebConf 2024 (WWW '24). 
-- **[May 2023]** Our paper "Who Judges the Judge" was accepted by ISSTA 2023. 
-
 <h2 id="experience">Experience</h2>
 
 * **Intern - Google (Shanghai), Pixel Personalization** (Jun. 2026 - Aug. 2026) <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-left:4px;">
