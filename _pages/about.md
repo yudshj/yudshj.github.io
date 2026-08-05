@@ -75,7 +75,7 @@ redirect_from:
     * *Frontiers Comput. Sci. 2024*, CCF-B
     * Impact Factor = 7.3 (2025)
 
-* **<span class="publication-venue">[MSR&#39;24]</span> TrickyBugs: A Dataset of Corner-case Bugs in Plausible Programs** \[[Paper](https://doi.org/10.1145/3643991.3644870)]
+* **<span class="publication-venue">[MSR&#39;24]</span> TrickyBugs: A Dataset of Corner-case Bugs in Plausible Programs** \[[Paper](https://doi.org/10.1145/3643991.3644870)] \[[Artifact](https://doi.org/10.5281/zenodo.10252289)]
     * Kaibo Liu, **Yudong Han**, Yiyang Liu, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Gang Huang, Yun Ma 
     * *the 21st International Conference on Mining Software Repositories (MSR 2024)*, CCF-C
     * Acceptance rate = 28.8 % (42/146, technical track)
