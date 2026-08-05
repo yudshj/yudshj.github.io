@@ -1,3 +1,7 @@
 _site/
 push.sh
 .DS_Store
+
+# Bundler local configuration and installed gems
+.bundle/
+vendor/
