@@ -52,7 +52,7 @@ redirect_from:
 
 * **<span class="publication-venue">[TPDS&#39;25]</span> DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning** \[[Code](https://github.com/yudshj/defl-hotstuff)] \[[Paper](https://doi.org/10.1109/TPDS.2024.3501581)]
     * Jialiang Han, **Yudong Han**, Xiang Jing, Gang Huang, Yun Ma 
-    * *IEEE Transactions on Parallel and Distributed Systems (TPDS '25)*, CCF-A 
+    * *IEEE Transactions on Parallel and Distributed Systems*, CCF-A
     * Impact Factor = 5.9 (2025)
 
 * **<span class="publication-venue">[SIGIR&#39;25]</span> WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers** \[[Paper](https://doi.org/10.1145/3726302.3730115)]
@@ -72,7 +72,7 @@ redirect_from:
 
 * **<span class="publication-venue">[FCS&#39;24]</span> WPIA: Accelerating DNN Warm-up in Web Browsers by Precompiling WebGL Programs** \[[Paper](https://doi.org/10.1007/s11704-024-40066-w)]
     * Deyu Tian, Yun Ma, **Yudong Han**, Qi Yang, Haochen Yang, Gang Huang 
-    * *Frontiers Comput. Sci. 2024*, CCF-B
+    * *Frontiers of Computer Science 2024*, CCF-B
     * Impact Factor = 7.3 (2025)
 
 * **<span class="publication-venue">[MSR&#39;24]</span> TrickyBugs: A Dataset of Corner-case Bugs in Plausible Programs** \[[Paper](https://doi.org/10.1145/3643991.3644870)] \[[Artifact](https://doi.org/10.5281/zenodo.10252289)]
