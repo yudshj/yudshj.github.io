@@ -37,60 +37,60 @@ redirect_from:
 
 * **<span class="publication-venue">[MM&#39;26]</span> WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU** \[[Project](https://websplatter.github.io/)] \[[Paper](https://arxiv.org/abs/2602.03207)]
   * **Yudong Han**, Chao Xu, Xiaodan Ye, Weichen Bi, Zilong Dong, Yun Ma
-  * *The 34th ACM International Conference on Multimedia*, CCF-A
+  * *The 34th ACM International Conference on Multimedia*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
   * Acceptance rate ≈ 25.0 % (7,053 submissions)
 
 * **<span class="publication-venue">[ICSE&#39;26]</span> Characterizing GPU-accelerated Web Applications in Browsers** \[[Paper](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/296/Characterizing-GPU-accelerated-Web-Applications-in-Browsers)]
   * **Yudong Han**, Weichen Bi, Haiyang Shen, Mugeng Liu, Ruibo An, Yun Ma
-  * *The 48th International Conference on Software Engineering*, CCF-A
+  * *The 48th International Conference on Software Engineering*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
   * Acceptance rate = 21.9 % (321/1,469, research track)
 
 * **<span class="publication-venue">[WWW&#39;25]</span> GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** \[[Project](https://gl2gpu.github.io/)] \[[Paper](https://doi.org/10.1145/3696410.3714785)]
     * **Yudong Han**, Weichen Bi, Ruibo An, Deyu Tian, Qi Yang, Yun Ma 
-    * *The Web Conference 2025*, CCF-A
+    * *The Web Conference 2025*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Acceptance rate = 19.8 % (409/2,062, oral)
 
 * **<span class="publication-venue">[TPDS&#39;25]</span> DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning** \[[Code](https://github.com/yudshj/defl-hotstuff)] \[[Paper](https://doi.org/10.1109/TPDS.2024.3501581)]
     * Jialiang Han, **Yudong Han**, Xiang Jing, Gang Huang, Yun Ma 
-    * *IEEE Transactions on Parallel and Distributed Systems*, CCF-A
+    * *IEEE Transactions on Parallel and Distributed Systems*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Impact Factor = 5.9 (2025)
 
 * **<span class="publication-venue">[SIGIR&#39;25]</span> WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers** \[[Paper](https://doi.org/10.1145/3726302.3730115)]
     * Mugeng Liu, Siqi Zhong, Qi Yang, **Yudong Han**, Xuanzhe Liu, Yun Ma 
-    * *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval*, CCF-A
+    * *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Acceptance rate = 22.3 % (239/1,071, full paper)
 
 * **<span class="publication-venue">[ACL&#39;25]</span> LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs** \[[Paper](https://aclanthology.org/2025.acl-long.20/)] \[[Code](https://github.com/RinCloud/TrickCatcher)]
     * Kaibo Liu, Zhenpeng Chen, Yiyang Liu, Jie Zhang, Mark Harman, **Yudong Han**, Yun Ma, Yihong Dong, Ge Li, Gang Huang 
-    * *The 63rd Annual Meeting of the Association for Computational Linguistics*, CCF-A
+    * *The 63rd Annual Meeting of the Association for Computational Linguistics*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Acceptance rate = 20.3 % (1,699/8,360, main conference)
 
 * **<span class="publication-venue">[WWW&#39;24]</span> FusionRender: Harnessing WebGPU's Power for Enhanced Graphics Performance on Web Browsers** \[[Paper](https://doi.org/10.1145/3589334.3645395)]
     * Weichen Bi, Yun Ma, **Yudong Han**, Yifan Chen, Deyu Tian, Jiaqi Du 
-    * *The Web Conference 2024*, CCF-A
+    * *The Web Conference 2024*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Acceptance rate = 20.2 % (405/2,008)
 
 * **<span class="publication-venue">[FCS&#39;24]</span> WPIA: Accelerating DNN Warm-up in Web Browsers by Precompiling WebGL Programs** \[[Paper](https://doi.org/10.1007/s11704-024-40066-w)]
     * Deyu Tian, Yun Ma, **Yudong Han**, Qi Yang, Haochen Yang, Gang Huang 
-    * *Frontiers of Computer Science 2024*, CCF-B
+    * *Frontiers of Computer Science 2024*, CCF-B<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Impact Factor = 7.3 (2025)
 
 * **<span class="publication-venue">[MSR&#39;24]</span> TrickyBugs: A Dataset of Corner-case Bugs in Plausible Programs** \[[Paper](https://doi.org/10.1145/3643991.3644870)] \[[Artifact](https://doi.org/10.5281/zenodo.10252289)]
     * Kaibo Liu, **Yudong Han**, Yiyang Liu, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Gang Huang, Yun Ma 
-    * *the 21st International Conference on Mining Software Repositories*, CCF-C
+    * *the 21st International Conference on Mining Software Repositories*, CCF-C<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Acceptance rate = 28.8 % (42/146, technical track)
 
 * **<span class="publication-venue">[WISE&#39;24]</span> Web-Based Al Assistant for Medical Imaging: A Case Study on Predicting Spontaneous Preterm Birth via Ultrasound Images** \[[Paper](https://doi.org/10.1007/978-981-96-0573-6_22)]
     * Weichen Bi, Zijian Shao, **Yudong Han**, Jiaqi Du, Yuan Wei, Lijuan Guo, Tianchen Wu, Shuang Li, Yun Ma 
-    * *The International Web Information Systems Engineering conference*, CCF-C
+    * *The International Web Information Systems Engineering conference*, CCF-C<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Acceptance rate = 29.9 % (110/368, full paper)
 
 * **<span class="publication-venue">[ISSTA&#39;23]</span> Who Judges the Judge: An Empirical Study on Online Judge Tests** \[[Paper](https://doi.org/10.5281/zenodo.7977256)]
     * Kaibo Liu, **Yudong Han**, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Mark Harman, Gang Huang, Yun Ma 
-    * *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis*, CCF-A
+    * *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Acceptance rate = 31.5 % (117/372)
 
-*CCF refers to the China Computer Federation, whose [official classification](https://www.ccf.org.cn/Academic_Evaluation/By_category/) groups recommended international conferences and journals into A, B, and C tiers.*
+<p id="ccf-classification-note" style="padding-top: 5rem; margin-top: -5rem;"><em>CCF refers to the China Computer Federation, whose <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">official classification</a> groups recommended international conferences and journals into A, B, and C tiers.</em></p>
 
 <h2 id="honors">🏆 Honors and Awards </h2>
 
