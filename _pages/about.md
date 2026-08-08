@@ -85,7 +85,7 @@ redirect_from:
     * *The International Web Information Systems Engineering conference*, CCF-C<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Acceptance rate = 29.9 % (110/368, full paper)
 
-* **<span class="publication-venue">[ISSTA&#39;23]</span> Who Judges the Judge: An Empirical Study on Online Judge Tests** \[[Paper](https://doi.org/10.5281/zenodo.7977256)]
+* **<span class="publication-venue">[ISSTA&#39;23]</span> Who Judges the Judge: An Empirical Study on Online Judge Tests** \[[Paper](https://doi.org/10.1145/3597926.3598060)]
     * Kaibo Liu, **Yudong Han**, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Mark Harman, Gang Huang, Yun Ma 
     * *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Acceptance rate = 31.5 % (117/372)
