@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 I am Yudong Han (韩宇栋), a Ph.D. candidate at Peking University working on web graphics and LLM for software engineering.
+👋 I am Yudong Han (韩宇栋), a Ph.D. candidate at Peking University working on web graphics and LLM for software engineering. <a class="hire-me" href="mailto:hanyd@pku.edu.cn">Hire me</a>
 
 * **Position:** Currently a Software Engineer at <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-right:4px;">Google, working on Pixel Personalization in Shanghai. Previously a Research Engineer at <img src="/images/logo/qwen-logo.svg" alt="Qwen" style="height:1.0em; vertical-align:middle; margin-right:4px;">Alibaba Qwen Team.
 * **Education:** <img src="/images/logo/pku-seal.svg" style="height:1.0em; vertical-align:middle; margin-right:4px;">Ph.D. candidate in Computer Science, School of Computer Science, Peking University. B.S. in Computer Science, School of Electronics Engineering and Computer Science, Peking University.
