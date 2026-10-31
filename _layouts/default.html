@@ -37,15 +37,15 @@ layout: compress
        Known limitation: just above each column breakpoint (roughly 925-1060px and
        1280-1415px) the margin is still narrower than the button, so it overlaps the text
        column edge until the viewport grows another ~135px. */
-    .ftoc-btn{position:fixed;bottom:1.5rem;right:1.25rem;right:max(1.25rem,calc(50vw - 462.5px - 3.25rem));width:44px;height:44px;border-radius:50%;background:#2563eb;color:#fff;border:none;font-size:1.25rem;line-height:1;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.18);z-index:9999;transition:transform .2s,background .2s,box-shadow .2s;display:flex;align-items:center;justify-content:center;-webkit-tap-highlight-color:transparent}
-    .ftoc-btn:hover{background:#1d4ed8;transform:scale(1.06);box-shadow:0 4px 12px rgba(0,0,0,.22)}
-    .ftoc-btn.active{background:#1e40af;transform:rotate(90deg)}
-    .ftoc-btn:focus-visible{outline:2px solid #2563eb;outline-offset:3px}
+    .ftoc-btn{position:fixed;bottom:1.5rem;right:1.25rem;right:max(1.25rem,calc(50vw - 462.5px - 3.25rem));width:44px;height:44px;border-radius:50%;background:#94070a;color:#fff;border:none;font-size:1.25rem;line-height:1;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.18);z-index:9999;transition:transform .2s,background .2s,box-shadow .2s;display:flex;align-items:center;justify-content:center;-webkit-tap-highlight-color:transparent}
+    .ftoc-btn:hover{background:#7a0508;transform:scale(1.06);box-shadow:0 4px 12px rgba(0,0,0,.22)}
+    .ftoc-btn.active{background:#5f0406;transform:rotate(90deg)}
+    .ftoc-btn:focus-visible{outline:2px solid #94070a;outline-offset:3px}
     .ftoc-panel{position:fixed;bottom:4.75rem;right:1.25rem;right:max(1.25rem,calc(50vw - 462.5px - 3.25rem));background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:.4rem 0;max-height:60vh;overflow-y:auto;z-index:9998;box-shadow:0 8px 24px rgba(0,0,0,.12);opacity:0;transform:translateY(8px);pointer-events:none;transition:opacity .2s,transform .2s;min-width:200px;max-width:280px;font-family:"Trebuchet MS",Helvetica,sans-serif}
     .ftoc-panel.show{opacity:1;transform:translateY(0);pointer-events:auto}
     .ftoc-panel a{display:block;padding:.45rem 1.1rem;color:#374151;text-decoration:none;font-size:.88rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-left:3px solid transparent;transition:background .15s,color .15s}
-    .ftoc-panel a:hover{background:#eff6ff;color:#1d4ed8}
-    .ftoc-panel a.active{color:#2563eb;font-weight:600;border-left-color:#2563eb}
+    .ftoc-panel a:hover{background:#fef2f2;color:#7a0508}
+    .ftoc-panel a.active{color:#94070a;font-weight:600;border-left-color:#94070a}
     @media(min-width:80em){.ftoc-btn,.ftoc-panel{right:1.25rem;right:max(1.25rem,calc(50vw - 640px - 3.25rem))}}
     @media(max-width:768px){.ftoc-btn,.ftoc-panel{display:none}}
     </style>

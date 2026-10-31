@@ -64,10 +64,10 @@ $text-color                 : $dark-gray;
 $muted-text-color           : #6b7280; // Tailwind Gray 500
 $border-color               : #e5e7eb; // Tailwind Gray 200
 
-/* accents follow the Tailwind 600 scale (700 = hover, 800 = active) */
-$primary-color              : #2563eb; // Tailwind Blue 600
-$primary-color-hover        : #1d4ed8; // Tailwind Blue 700
-$primary-color-active       : #1e40af; // Tailwind Blue 800
+/* accent: Peking University red (北大红) with darker hover / active steps */
+$primary-color              : #94070a; // PKU Red
+$primary-color-hover        : #7a0508; // PKU Red, darker
+$primary-color-active       : #5f0406; // PKU Red, darkest
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;

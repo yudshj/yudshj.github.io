@@ -24,15 +24,15 @@ body { margin: 0; }
 
 /* Selected elements */
 
-/* soft blue selection (Tailwind Blue 100 / 900) instead of harsh inverted black */
+/* soft red selection (Tailwind Red 100 / PKU Red) instead of harsh inverted black */
 ::-moz-selection {
-  color: #1e3a8a;
-  background: #dbeafe;
+  color: #5f0406;
+  background: #fee2e2;
 }
 
 ::selection {
-  color: #1e3a8a;
-  background: #dbeafe;
+  color: #5f0406;
+  background: #fee2e2;
 }
 
 /* Display HTML5 elements in IE6-9 and FF3 */
