@@ -21,6 +21,7 @@ redirect_from:
 
 <h2 id="experience">Experience</h2>
 
+* **Intern - DeepSeek, Harness Team** (Sep. 2026 - *Present*) <img src="/images/logo/deepseek-logo.svg" alt="DeepSeek" style="height:1.0em; vertical-align:middle; margin-left:4px;">
 * **Intern - Google (Shanghai), Pixel Personalization** (Jun. 2026 - Aug. 2026) <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-left:4px;">
 * **Research Intern - Alibaba Tongyi Lab (通义实验室)** (Jul. 2025 - May 2026) <img src="/images/logo/qwen-logo.svg" alt="Alibaba Tongyi Lab" style="height:1.0em; vertical-align:middle; margin-left:4px;">
     * Designed and built [WebSplatter](https://websplatter.github.io/), a high-performance, high-fidelity in-browser 3D Gaussian Splatting rendering engine, achieving **1.2–4.5× speedups** over state-of-the-art web-based 3DGS viewers.
