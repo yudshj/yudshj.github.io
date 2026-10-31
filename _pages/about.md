@@ -1,57 +1,60 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "Ph.D. Candidate in Computer Science at Peking University working on web graphics and LLMs for software engineering."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<a class="hire-me" href="mailto:hanyd@pku.edu.cn">Hire me</a> 👋 I am Yudong Han (韩宇栋), a Ph.D. candidate at Peking University working on web graphics and LLM for software engineering.
+<a class="hire-me" href="mailto:hanyd@pku.edu.cn">Hire me</a> 👋 I am Yudong Han (韩宇栋), a Ph.D. candidate at Peking University working on web graphics and LLMs for software engineering.
 
-* **Position:** Currently working on the Harness Team at <img src="/images/logo/deepseek-logo.svg" alt="DeepSeek" style="height:1.0em; vertical-align:middle; margin-right:4px;">DeepSeek. Previously a Software Engineer at <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-right:4px;">Google, working on Pixel Personalization in Shanghai, and a Research Engineer at <img src="/images/logo/qwen-logo.svg" alt="Qwen" style="height:1.0em; vertical-align:middle; margin-right:4px;">Alibaba Qwen Team.
-* **Education:** <img src="/images/logo/pku-seal.svg" style="height:1.0em; vertical-align:middle; margin-right:4px;">Ph.D. candidate in Computer Science, School of Computer Science, Peking University. B.S. in Computer Science, School of Electronics Engineering and Computer Science, Peking University.
+* **Position:** Currently working on the Harness Team at <img src="/images/logo/deepseek-logo.svg" alt="DeepSeek" style="height:1.0em; vertical-align:middle; margin-right:4px;">DeepSeek. Previously a Software Engineer Intern on the Pixel Personalization team at <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-right:4px;">Google (Shanghai), and a Research Intern on the <img src="/images/logo/qwen-logo.svg" alt="Qwen" style="height:1.0em; vertical-align:middle; margin-right:4px;">Alibaba Qwen Team.
+* **Education:** <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-right:4px;">Ph.D. Candidate in Computer Science, School of Computer Science, Peking University; B.S. in Computer Science, School of Electronics Engineering and Computer Science, Peking University.
 * **Publications:** Published at ACM Multimedia, ICSE, WWW (TheWebConf), SIGIR, ACL, TPDS, and ISSTA — covering browser graphics, software testing, and agentic software engineering.
 * **Competitive Programming:** 🥈 Silver Medal (Rank 66 Nationally), National Olympiad in Informatics (NOI), 2017.
-* **Skills:** 🧑‍💻 I write Rust, Python, TypeScript, C++, and Kotlin code. My research interests include WebGPU/WebGL optimization, LLM-powered agent systems, and edge computing.
+* **Skills & Interests:** 🧑‍💻 Proficient in Rust, Python, TypeScript, C++, and Kotlin; research interests include WebGPU/WebGL optimization, LLM-powered agent systems, and edge computing.
 
 
 🔗 Check out my [Blog](https://blog.hanyd.site) for technical notes and writings.
 
 <h2 id="experience">Experience</h2>
 
-* **Intern - DeepSeek, Harness Team** (Sep. 2026 - *Present*) <img src="/images/logo/deepseek-logo.svg" alt="DeepSeek" style="height:1.0em; vertical-align:middle; margin-left:4px;">
-* **Intern - Google (Shanghai), Pixel Personalization** (Jun. 2026 - Aug. 2026) <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-left:4px;">
-* **Research Intern - Alibaba Tongyi Lab (通义实验室)** (Jul. 2025 - May 2026) <img src="/images/logo/qwen-logo.svg" alt="Alibaba Tongyi Lab" style="height:1.0em; vertical-align:middle; margin-left:4px;">
+* **Intern, Harness Team – DeepSeek** (Sep. 2026–Present) <img src="/images/logo/deepseek-logo.svg" alt="DeepSeek" style="height:1.0em; vertical-align:middle; margin-left:4px;">
+    * Designing a future-oriented agent architecture ([dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)).
+    * Designing a high-performance office suite integrated into the harness via frame forwarding ([dsh-libreoffice-kit](https://github.com/deepseek-ai/dsh-libreoffice-kit)).
+    * Optimizing UI rendering performance of [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness).
+* **Software Engineer Intern, Pixel Personalization – Google (Shanghai)** (Jun. 2026–Aug. 2026) <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-left:4px;">
+* **Research Intern – Alibaba Tongyi Lab (通义实验室)** (Jul. 2025–May 2026) <img src="/images/logo/qwen-logo.svg" alt="Alibaba Tongyi Lab" style="height:1.0em; vertical-align:middle; margin-left:4px;">
     * Designed and built [WebSplatter](https://websplatter.github.io/), a high-performance, high-fidelity in-browser 3D Gaussian Splatting rendering engine, achieving **1.2–4.5× speedups** over state-of-the-art web-based 3DGS viewers.
-* **President - Peking University Martial Arts Association** (Feb. 2025 - *Present*) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
+* **President – Peking University Martial Arts Association** (Feb. 2025–Present) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
     * Lead a 200-member student association; design and teach a 10-week HEMA saber program combining historical manuscripts with modern sport fencing training.
-    * Organized the **“Exploring Bajiquan”** lecture featuring a national intangible cultural heritage inheritor and a NetEase 24 Entertainment action artist; joined their dialogue on martial arts heritage and game action design. \[[News](https://mp.weixin.qq.com/s/Fa1qZsV7osNbdiHHx6n0rw)]
-* <strong>Teaching Assistant - Introduction to Computing (Python <img src="/images/logo/python-logo.svg" alt="Python" style="height:1.0em; vertical-align:middle; margin-left:2px;">)</strong> (Sep. 2021 - Dec. 2025) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
+    * Organized the **“Exploring Bajiquan”** lecture featuring a national intangible cultural heritage inheritor and a NetEase 24 Entertainment action artist; participated in a panel dialogue on martial arts heritage and game action design. \[[News](https://mp.weixin.qq.com/s/Fa1qZsV7osNbdiHHx6n0rw)]
+* <strong>Teaching Assistant – Introduction to Computing (Python <img src="/images/logo/python-logo.svg" alt="Python" style="height:1.0em; vertical-align:middle; margin-left:2px;">)</strong> (Sep. 2021–Dec. 2025) <img src="/images/logo/pku-seal.svg" alt="Peking University" style="height:1.0em; vertical-align:middle; margin-left:4px;">
     * Instructed 500+ undergraduate students at Peking University.
     * Developed an [in-browser Python IDE](https://ide.wjpython.bdware.cn) to provide a cross-platform, zero-installation, and privacy-first coding environment for beginners.
-    * Created a ["Cyber TA"](https://helper.wjpython.bdware.cn) powered by LLMs to offer students 24/7 automated debugging support.
-    * The course received the **2025 GMA Awards: AI Special Recognition**. \[[Certificate](/files/GMA.pdf)] \[[News](https://mp.weixin.qq.com/s/H56_oggdwzif4Z01wfr5Ig)]
+    * Created a [“Cyber TA”](https://helper.wjpython.bdware.cn) powered by LLMs to offer students 24/7 automated debugging support.
+    * Contributed to the course receiving the **2025 GMA Award: AI Special Recognition**. \[[Certificate](/files/GMA.pdf)] \[[News](https://mp.weixin.qq.com/s/H56_oggdwzif4Z01wfr5Ig)]
 
 <h2 id="publications">📑 Publications</h2>
 
 * **<span class="publication-venue">[MM&#39;26]</span> WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU** \[[Project](https://websplatter.github.io/)] \[[Paper](https://arxiv.org/abs/2602.03207)]
-  * **Yudong Han**, Chao Xu, Xiaodan Ye, Weichen Bi, Zilong Dong, Yun Ma
-  * *The 34th ACM International Conference on Multimedia*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
-  * Acceptance rate ≈ 25.0 % (7,053 submissions)
+    * **Yudong Han**, Chao Xu, Xiaodan Ye, Weichen Bi, Zilong Dong, Yun Ma
+    * *The 34th ACM International Conference on Multimedia*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
+    * Acceptance rate ≈ 25.0% (7,053 submissions)
 
-* **<span class="publication-venue">[ICSE&#39;26]</span> Characterizing GPU-accelerated Web Applications in Browsers** \[[Paper](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/296/Characterizing-GPU-accelerated-Web-Applications-in-Browsers)]
-  * **Yudong Han**, Weichen Bi, Haiyang Shen, Mugeng Liu, Ruibo An, Yun Ma
-  * *The 48th International Conference on Software Engineering*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
-  * Acceptance rate = 21.9 % (321/1,469, research track)
+* **<span class="publication-venue">[ICSE&#39;26]</span> Characterizing GPU-Accelerated Web Applications in Browsers** \[[Paper](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/296/Characterizing-GPU-accelerated-Web-Applications-in-Browsers)]
+    * **Yudong Han**, Weichen Bi, Haiyang Shen, Mugeng Liu, Ruibo An, Yun Ma
+    * *The 48th International Conference on Software Engineering*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
+    * Acceptance rate = 21.9% (321/1,469, research track)
 
 * **<span class="publication-venue">[WWW&#39;25]</span> GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU** \[[Project](https://gl2gpu.github.io/)] \[[Paper](https://doi.org/10.1145/3696410.3714785)]
     * **Yudong Han**, Weichen Bi, Ruibo An, Deyu Tian, Qi Yang, Yun Ma 
-    * *The Web Conference 2025*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
-    * Acceptance rate = 19.8 % (409/2,062, oral)
+    * *The 34th ACM Web Conference*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
+    * Acceptance rate = 19.8% (409/2,062, oral)
 
-* **<span class="publication-venue">[TPDS&#39;25]</span> DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning** \[[Code](https://github.com/yudshj/defl-hotstuff)] \[[Paper](https://doi.org/10.1109/TPDS.2024.3501581)]
+* **<span class="publication-venue">[TPDS&#39;25]</span> DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning** \[[Paper](https://doi.org/10.1109/TPDS.2024.3501581)] \[[Code](https://github.com/yudshj/defl-hotstuff)]
     * Jialiang Han, **Yudong Han**, Xiang Jing, Gang Huang, Yun Ma 
     * *IEEE Transactions on Parallel and Distributed Systems*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Impact Factor = 5.9 (2025)
@@ -59,37 +62,37 @@ redirect_from:
 * **<span class="publication-venue">[SIGIR&#39;25]</span> WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers** \[[Paper](https://doi.org/10.1145/3726302.3730115)]
     * Mugeng Liu, Siqi Zhong, Qi Yang, **Yudong Han**, Xuanzhe Liu, Yun Ma 
     * *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
-    * Acceptance rate = 22.3 % (239/1,071, full paper)
+    * Acceptance rate = 22.3% (239/1,071, full paper)
 
 * **<span class="publication-venue">[ACL&#39;25]</span> LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs** \[[Paper](https://aclanthology.org/2025.acl-long.20/)] \[[Code](https://github.com/RinCloud/TrickCatcher)]
-    * Kaibo Liu, Zhenpeng Chen, Yiyang Liu, Jie Zhang, Mark Harman, **Yudong Han**, Yun Ma, Yihong Dong, Ge Li, Gang Huang 
+    * Kaibo Liu, Zhenpeng Chen, Yiyang Liu, Jie M. Zhang, Mark Harman, **Yudong Han**, Yun Ma, Yihong Dong, Ge Li, Gang Huang 
     * *The 63rd Annual Meeting of the Association for Computational Linguistics*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
-    * Acceptance rate = 20.3 % (1,699/8,360, main conference)
+    * Acceptance rate = 20.3% (1,699/8,360, main conference)
 
-* **<span class="publication-venue">[WWW&#39;24]</span> FusionRender: Harnessing WebGPU's Power for Enhanced Graphics Performance on Web Browsers** \[[Paper](https://doi.org/10.1145/3589334.3645395)]
+* **<span class="publication-venue">[WWW&#39;24]</span> FusionRender: Harnessing WebGPU’s Power for Enhanced Graphics Performance on Web Browsers** \[[Paper](https://doi.org/10.1145/3589334.3645395)]
     * Weichen Bi, Yun Ma, **Yudong Han**, Yifan Chen, Deyu Tian, Jiaqi Du 
-    * *The Web Conference 2024*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
-    * Acceptance rate = 20.2 % (405/2,008)
+    * *The 33rd ACM Web Conference*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
+    * Acceptance rate = 20.2% (405/2,008)
 
 * **<span class="publication-venue">[FCS&#39;24]</span> WPIA: Accelerating DNN Warm-up in Web Browsers by Precompiling WebGL Programs** \[[Paper](https://doi.org/10.1007/s11704-024-40066-w)]
     * Deyu Tian, Yun Ma, **Yudong Han**, Qi Yang, Haochen Yang, Gang Huang 
-    * *Frontiers of Computer Science 2024*, CCF-B<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
+    * *Frontiers of Computer Science*, CCF-B<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
     * Impact Factor = 7.3 (2025)
 
-* **<span class="publication-venue">[MSR&#39;24]</span> TrickyBugs: A Dataset of Corner-case Bugs in Plausible Programs** \[[Paper](https://doi.org/10.1145/3643991.3644870)] \[[Artifact](https://doi.org/10.5281/zenodo.10252289)]
+* **<span class="publication-venue">[MSR&#39;24]</span> TrickyBugs: A Dataset of Corner-Case Bugs in Plausible Programs** \[[Paper](https://doi.org/10.1145/3643991.3644870)] \[[Artifact](https://doi.org/10.5281/zenodo.10252289)]
     * Kaibo Liu, **Yudong Han**, Yiyang Liu, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Gang Huang, Yun Ma 
-    * *the 21st International Conference on Mining Software Repositories*, CCF-C<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
-    * Acceptance rate = 28.8 % (42/146, technical track)
+    * *The 21st International Conference on Mining Software Repositories*, CCF-C<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
+    * Acceptance rate = 28.8% (42/146, technical track)
 
-* **<span class="publication-venue">[WISE&#39;24]</span> Web-Based Al Assistant for Medical Imaging: A Case Study on Predicting Spontaneous Preterm Birth via Ultrasound Images** \[[Paper](https://doi.org/10.1007/978-981-96-0573-6_22)]
+* **<span class="publication-venue">[WISE&#39;24]</span> Web-Based AI Assistant for Medical Imaging: A Case Study on Predicting Spontaneous Preterm Birth via Ultrasound Images** \[[Paper](https://doi.org/10.1007/978-981-96-0573-6_22)]
     * Weichen Bi, Zijian Shao, **Yudong Han**, Jiaqi Du, Yuan Wei, Lijuan Guo, Tianchen Wu, Shuang Li, Yun Ma 
-    * *The International Web Information Systems Engineering conference*, CCF-C<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
-    * Acceptance rate = 29.9 % (110/368, full paper)
+    * *The 25th International Conference on Web Information Systems Engineering*, CCF-C<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
+    * Acceptance rate = 29.9% (110/368, full paper)
 
 * **<span class="publication-venue">[ISSTA&#39;23]</span> Who Judges the Judge: An Empirical Study on Online Judge Tests** \[[Paper](https://doi.org/10.1145/3597926.3598060)]
     * Kaibo Liu, **Yudong Han**, Jie M. Zhang, Zhenpeng Chen, Federica Sarro, Mark Harman, Gang Huang, Yun Ma 
     * *The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis*, CCF-A<sup class="ccf-note-ref"><a href="#ccf-classification-note" aria-label="Jump to the CCF classification note">[^]</a></sup>
-    * Acceptance rate = 31.5 % (117/372)
+    * Acceptance rate = 31.5% (117/372)
 
 <p id="ccf-classification-note" style="padding-top: 5rem; margin-top: -5rem;"><em>CCF refers to the China Computer Federation, whose <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">official classification</a> groups recommended international conferences and journals into A, B, and C tiers.</em></p>
 
@@ -97,24 +100,24 @@ redirect_from:
 
 * **Dean’s Scholarship**, Institute for Artificial Intelligence, Peking University (2025)
 * **School Scholarship**, Excellent Research Award, Peking University (2025)
-* **Lingjun Linghang’s** Scholarship, Lingjun Investment (2025)
+* **Lingjun Linghang Scholarship**, Lingjun Investment (2025)
 * **The Web Conference Travel Award** (2025)
-* **GMA Awards: AI Special Recognition** \[[Certificate](/files/GMA.pdf)] \[[News](https://mp.weixin.qq.com/s/H56_oggdwzif4Z01wfr5Ig)] (2025)
+* **GMA Award: AI Special Recognition** (2025) \[[Certificate](/files/GMA.pdf)] \[[News](https://mp.weixin.qq.com/s/H56_oggdwzif4Z01wfr5Ig)]
 * **Fourth Place**, 2nd Beijing University Student Historical Fencing Open Competition (2025) 🤺
-* **Second Prize**, EDAthon - International EDA Algorithm Competition (2022) 🥈
-* **Silver Medal (Rank 66th, Nationally)**, National Olympiad in Informatics (NOI) (2017) 🥈
+* **Second Prize**, EDAthon – International EDA Algorithm Competition (2022) 🥈
+* **Silver Medal (Rank 66 Nationally)**, National Olympiad in Informatics (NOI) (2017) 🥈
 
 <h2 id="skills">🔧 Technical Skills</h2>
 
-* **Languages:** Rust, Python, TypeScript/JavaScript, C++, Java 
+* **Languages:** Rust, Python, TypeScript/JavaScript, C++, Kotlin
 * **Web Technologies:** WebGPU, WebGL, Web App Optimization, Web-based LLM/RAG 
-* **Systems:** Linux Server Maintenance, AWS, LLM Deployment with Edge Computing, Docker, CI/CD
+* **Systems:** Linux System Administration, AWS, Edge LLM Deployment, Docker, CI/CD
 
 <h2 id="beyond-academia">🥋 Beyond Academia</h2>
 
-When I'm not debugging WebGPU shaders or training AI agents, you'll find me wielding a longsword or saber in HEMA (Historical European Martial Arts) tournaments. As the current president of Peking University Martial Arts Association, I balance my research pursuits with a passion for reconstructing sword combat techniques.
+When I’m not debugging WebGPU shaders or training AI agents, you’ll find me wielding a longsword or saber in HEMA (Historical European Martial Arts) tournaments. As the current president of the Peking University Martial Arts Association, I balance my research pursuits with a passion for reconstructing historical sword combat techniques.
 
 <div style="text-align: center;">
   <img src="/images/hema-2025.webp" alt="Competing at the 2nd Beijing University Student Historical Fencing Open Competition (April 2025)" style="max-width: 600px; width: 100%; border-radius: 8px;">
-  <p><em>Me in a HEMA saber bout, Beijing, April 2025.</em></p>
+  <p><em>Competing in a HEMA saber bout, Beijing, April 2025.</em></p>
 </div>

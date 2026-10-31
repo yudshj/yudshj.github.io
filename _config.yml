@@ -7,7 +7,7 @@
 
 # Site Settings
 title                   : "Yudong Han"
-description             : "Focusing on efficient 3D Gaussian Splatting (3DGS), agentic software engineering, software testing, and high-performance web graphics (WebGPU)."
+description             : "Researching efficient 3D Gaussian Splatting (3DGS), agentic software engineering, software testing, and high-performance web graphics (WebGPU)."
 repository              : "yudshj/yudshj.github.io" # e.g., "RayeRen/acad-homepage.github.io"
 url                     : "https://hanyd.site"
 google_scholar_stats_use_cdn : true
