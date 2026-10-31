@@ -24,14 +24,15 @@ body { margin: 0; }
 
 /* Selected elements */
 
+/* soft blue selection (Tailwind Blue 100 / 900) instead of harsh inverted black */
 ::-moz-selection {
-  color: #fff;
-  background: #000;
+  color: #1e3a8a;
+  background: #dbeafe;
 }
 
 ::selection {
-  color: #fff;
-  background: #000;
+  color: #1e3a8a;
+  background: #dbeafe;
 }
 
 /* Display HTML5 elements in IE6-9 and FF3 */
@@ -70,17 +71,10 @@ a {
   color: $link-color;
 }
 
-/* Apply focus state */
+/* Apply focus state (keyboard focus only, not mouse clicks) */
 
-a:focus {
+a:focus-visible {
   @extend %tab-focus;
-}
-
-/* Remove outline from links */
-
-a:hover,
-a:active {
-  outline: 0;
 }
 
 /* Prevent sub and sup affecting line-height in all browsers */

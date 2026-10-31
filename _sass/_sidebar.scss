@@ -13,6 +13,13 @@
   @include clearfix();
   margin-bottom: 1em;
 
+  /* compact (phone/tablet) profile header: hairline rule separates it from the page */
+  @include breakpoint(max-width $large - 1px) {
+    margin-bottom: 1.25em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid $border-color;
+  }
+
   @include breakpoint($large) {
     @include span(2.25 of 12);
     opacity: 1;
@@ -69,13 +76,19 @@
    Author profile and links
    ========================================================================== */
 .profile_box{
-  @include breakpoint($large) {
-    display: block;
-  }
   display: flex;
   justify-content: flex-start;
   align-content: flex-start;
   align-items: center;
+
+  /* phones: the icon row drops below the name/bio instead of squeezing beside it */
+  @include breakpoint(max-width $small - 1px) {
+    flex-wrap: wrap;
+  }
+
+  @include breakpoint($large) {
+    display: block;
+  }
 }
 
 .author__avatar {
@@ -95,9 +108,11 @@
     max-width: 175px;
     min-width: 75px;
     border-radius: 50%;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(#000, 0.1);
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 4px;
       border: 1px solid $border-color;
     }
   }
@@ -110,6 +125,16 @@
   min-width: 120px;
   // padding-right: 25px;
   line-height: 1;
+
+  /* flex item in the compact header: the bio takes the free width and wraps,
+     so the icon row never has to break */
+  @include breakpoint(max-width $large - 1px) {
+    flex: 1 1 0;
+  }
+
+  @include breakpoint(max-width $small - 1px) {
+    padding-left: 14px;
+  }
 
   @include breakpoint($large) {
     display: block;
@@ -129,15 +154,17 @@
 }
 
 .sidebar .author__name {
+  font-family: $serif;
+  font-size: $type-size-4;
+
   @include breakpoint($medium) {
     font-size: $type-size-3;
   }
-  font-family: $serif;
-  font-size: $type-size-4;
 }
 
 .author__bio {
   margin: 0;
+  color: $muted-text-color;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -155,10 +182,19 @@
   margin-left: auto;
   cursor: pointer;
 
+  @include breakpoint(max-width $large - 1px) {
+    flex: 0 0 auto;
+    padding-left: 1em;
+  }
+
+  @include breakpoint(max-width $small - 1px) {
+    flex: 1 0 100%;
+    margin-top: 0.6em;
+    padding-left: 0;
+  }
+
   li:last-child {
-    a {
-      margin-bottom: 0;
-    }
+    margin-bottom: 0;
   }
 
   @include breakpoint($large) {
@@ -234,6 +270,7 @@
   }
 
   li {
+    margin-bottom: 0.45em;
     white-space: nowrap;
   }
 
@@ -245,17 +282,26 @@
 
   a {
     display: block;
-    margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    margin: 0;
+    padding: 0;
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    transition: color 0.15s ease-in-out;
 
     &:hover {
-      text-decoration: underline;
+      color: $primary-color-hover;
+      text-decoration: none;
     }
+
+    &:active {
+      color: $primary-color-active;
+    }
+  }
+
+  .sidebar-link-icon {
+    /* icons sit one step lighter than the label; both turn blue on hover */
+    color: $gray;
   }
 }
 
@@ -277,22 +323,45 @@
 }
 
 a:hover .sidebar-link-icon {
-  color: $primary-color;
+  color: $primary-color-hover;
+}
+
+a:active .sidebar-link-icon {
+  color: $primary-color-active;
 }
 
 .author__urls_sm{
   padding: .25em;
   font-size: 1.75em;
   display: block;
+  white-space: nowrap;
   a {
     color: inherit;
     text-decoration: none;
+    transition: color 0.15s ease-in-out;
     &:hover {
-      text-decoration: underline;
+      color: $primary-color-hover;
+      text-decoration: none;
+    }
+    &:active {
+      color: $primary-color-active;
     }
   }
   .sidebar-link-icon {
     margin-right: 0.15em;
+  }
+  @include breakpoint(max-width $small - 1px) {
+    /* single icon row aligned with the avatar's left edge */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35em 0.6em;
+    padding: 0.25em 0 0;
+    font-size: 1.5em;
+    line-height: 1;
+
+    .sidebar-link-icon {
+      margin-right: 0;
+    }
   }
   @include breakpoint($large) {
     display: none;

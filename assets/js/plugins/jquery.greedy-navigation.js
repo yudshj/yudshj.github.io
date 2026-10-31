@@ -14,6 +14,13 @@ var breaks = [];
 
 function updateNav() {
 
+  // The masthead has no overflow toggle button, so links moved into the hidden
+  // list could never be reached. Without a button, keep every link visible and
+  // let the CSS make the link row scroll horizontally on narrow screens.
+  if (!$btn.length) {
+    return;
+  }
+
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
   // The visible list is overflowing the nav

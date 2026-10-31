@@ -187,6 +187,15 @@
     &:hover {
       color: $masthead-link-color-hover;
     }
+
+    &:active {
+      color: $primary-color-active;
+    }
+
+    &:focus-visible {
+      outline-offset: 0;
+      border-radius: 2px;
+    }
   }
 
   button {
@@ -202,11 +211,33 @@
   }
 
   .visible-links {
-    display: table;
+    /* flex row instead of the old display:table; when there is no overflow toggle
+       button (see masthead.html) the row scrolls horizontally on narrow screens
+       instead of silently dropping links into an unreachable hidden list */
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    /* 2px gutter so keyboard focus rings are not clipped by overflow-x */
+    margin: -2px;
+    padding: 2px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    @include breakpoint(max-width $medium - 1px) {
+      /* soft fade on the right edge hints that the row scrolls */
+      padding-right: 2rem;
+      -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 2rem), transparent);
+              mask-image: linear-gradient(to right, #000 calc(100% - 2rem), transparent);
+    }
 
     li {
-      display: table-cell;
-      vertical-align: middle;
+      flex: 0 0 auto;
 
       &:first-child {
         font-weight: bold;
@@ -231,8 +262,9 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        height: 2px;
+        border-radius: 999px;
+        background: $primary-color;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;

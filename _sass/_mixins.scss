@@ -3,11 +3,9 @@
    ========================================================================== */
 
 %tab-focus {
-  /* Default*/
-  outline: thin dotted $warning-color;
-  /* Webkit*/
-  outline: 5px auto $warning-color;
-  outline-offset: -2px;
+  /* keyboard focus ring in the primary accent (Tailwind Blue 600) */
+  outline: 2px solid $primary-color;
+  outline-offset: 2px;
 }
 
 /*

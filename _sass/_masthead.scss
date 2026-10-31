@@ -16,7 +16,8 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: .5em;
+    /* same horizontal inset as #main so the nav lines up with the sidebar/content */
+    padding: 0.5em 1em;
     font-family: $sans-serif;
 
     @include breakpoint($x-large) {
@@ -44,10 +45,18 @@
 }
 
 .masthead__menu-home-item {
+  display: none !important;
+
   @include breakpoint($medium) {
     display: block !important;
   }
-  display: none !important;
+
+  /* when "Homepage" is hidden on phones, the next link becomes the first one */
+  @include breakpoint(max-width $medium - 1px) {
+    & + .masthead__menu-item a {
+      margin-left: 0;
+    }
+  }
 }
 
 .masthead__menu-item {

@@ -11,6 +11,12 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  @include breakpoint($medium) {
+    /* room so the last lines can scroll clear of the floating TOC button
+       (the button is hidden below $medium, so phones keep the default padding) */
+    padding-bottom: 4rem;
+  }
+
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
@@ -51,6 +57,12 @@
 .page__content {
   > h2 {
     margin-top: 1.35em;
+    color: $darker-gray;
+
+    @include breakpoint($medium) {
+      /* a little more air between sections once there is room for it */
+      margin-top: 1.6em;
+    }
 
     &::before {
       content: "";
@@ -64,21 +76,34 @@
   }
 
   .publication-venue {
-    color: #dc2626;
+    color: #dc2626; // Tailwind Red 600
   }
 
   a.hire-me {
-    color: #dc2626;
-    font-weight: bold;
+    /* small pill-style call-to-action in Tailwind Red 600 (700 hover, 800 active) */
+    display: inline-block;
+    padding: 0.1em 0.65em;
+    color: #fff;
+    background-color: #dc2626;
+    font-family: $sans-serif;
+    font-size: 0.85em;
+    font-weight: 700;
+    line-height: 1.5;
     text-decoration: none;
+    border-radius: 999px;
+    vertical-align: 0.08em;
+    box-shadow: 0 1px 2px rgba(#000, 0.08);
+    transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
 
     &:hover {
-      color: #b91c1c;
-      text-decoration: underline;
+      color: #fff;
+      background-color: #b91c1c;
+      text-decoration: none;
     }
 
     &:active {
-      color: #991b1b;
+      color: #fff;
+      background-color: #991b1b;
     }
   }
 
@@ -107,6 +132,48 @@
     font-size: 1em;
   }
 
+  /* lists: quieter bullets and tighter nested detail lines so each entry reads
+     as one block (top-level items keep the 0.5em rhythm from _base.scss) */
+  ul {
+    @include breakpoint(max-width $small - 1px) {
+      padding-inline-start: 1.25em;
+    }
+  }
+
+  li::marker {
+    color: #9ca3af; // Tailwind Gray 400
+  }
+
+  li > ul,
+  li > ol {
+    margin-top: 0.2em;
+  }
+
+  li li {
+    margin-bottom: 0.2em;
+  }
+
+  /* publication list: authors / venue / acceptance as muted metadata under the
+     title, with clear separation between papers */
+  > h2#publications + ul {
+    > li {
+      margin-bottom: 0.9em;
+    }
+
+    > li > ul {
+      color: #4b5563; // Tailwind Gray 600
+      font-size: 0.95em;
+
+      strong {
+        color: $darker-gray;
+      }
+    }
+
+    li li {
+      margin-bottom: 0.1em;
+    }
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
@@ -121,14 +188,24 @@
   }
 
   a {
+    color: $link-color;
     text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.15em;
+    text-decoration-color: rgba($link-color, 0.45);
 
     &:hover {
+      color: $link-color-hover;
       text-decoration: underline;
+      text-decoration-color: currentColor;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
+    }
+
+    &:active {
+      color: $link-color-active;
     }
   }
 

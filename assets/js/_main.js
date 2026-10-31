@@ -26,12 +26,18 @@ $(document).ready(function(){
   // init sticky sidebar
   $(".sticky").Stickyfill();
 
+  // Must match the `$large` breakpoint in _sass/_variables.scss (925px = 57.8125em),
+  // which is where the sidebar switches from the compact icon header to the full
+  // author profile with the link list. Use matchMedia so this check is evaluated
+  // exactly like the CSS media queries: jQuery's $(window).width() excludes the
+  // vertical scrollbar, so comparing it against 925 used to disagree with the CSS
+  // for viewports between 925px and 925px + scrollbar width, and the link list
+  // ended up hidden (inline display:none) in the sidebar layout.
+  var largeBreakpoint = window.matchMedia("(min-width: 57.8125em)");
+
   var stickySideBar = function(){
-    var show = $(".author__urls-wrapper button").length === 0 ? $(window).width() > 925 : !$(".author__urls-wrapper button").is(":visible");
-    // console.log("has button: " + $(".author__urls-wrapper button").length === 0);
-    // console.log("Window Width: " + windowWidth);
-    // console.log("show: " + show);
-    //old code was if($(window).width() > 1024)
+    var followButton = $(".author__urls-wrapper button");
+    var show = followButton.length === 0 ? largeBreakpoint.matches : !followButton.is(":visible");
     if (show) {
       // fix
       Stickyfill.rebuild();
