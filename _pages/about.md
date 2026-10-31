@@ -10,7 +10,7 @@ redirect_from:
 
 <a class="hire-me" href="mailto:hanyd@pku.edu.cn">Hire me</a> 👋 I am Yudong Han (韩宇栋), a Ph.D. candidate at Peking University working on web graphics and LLM for software engineering.
 
-* **Position:** Currently a Software Engineer at <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-right:4px;">Google, working on Pixel Personalization in Shanghai. Previously a Research Engineer at <img src="/images/logo/qwen-logo.svg" alt="Qwen" style="height:1.0em; vertical-align:middle; margin-right:4px;">Alibaba Qwen Team.
+* **Position:** Currently working on the Harness Team at <img src="/images/logo/deepseek-logo.svg" alt="DeepSeek" style="height:1.0em; vertical-align:middle; margin-right:4px;">DeepSeek. Previously a Software Engineer at <img src="/images/logo/google-g-logo.svg" alt="Google" style="height:1.0em; vertical-align:middle; margin-right:4px;">Google, working on Pixel Personalization in Shanghai, and a Research Engineer at <img src="/images/logo/qwen-logo.svg" alt="Qwen" style="height:1.0em; vertical-align:middle; margin-right:4px;">Alibaba Qwen Team.
 * **Education:** <img src="/images/logo/pku-seal.svg" style="height:1.0em; vertical-align:middle; margin-right:4px;">Ph.D. candidate in Computer Science, School of Computer Science, Peking University. B.S. in Computer Science, School of Electronics Engineering and Computer Science, Peking University.
 * **Publications:** Published at ACM Multimedia, ICSE, WWW (TheWebConf), SIGIR, ACL, TPDS, and ISSTA — covering browser graphics, software testing, and agentic software engineering.
 * **Competitive Programming:** 🥈 Silver Medal (Rank 66 Nationally), National Olympiad in Informatics (NOI), 2017.
